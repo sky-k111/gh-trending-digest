@@ -1,1 +1,209 @@
-[]
+[
+  {
+    "date": "2026-07-22",
+    "type": "daily",
+    "count": 25,
+    "repos": [
+      {
+        "id": 193215554,
+        "full_name": "n8n-io/n8n",
+        "html_url": "https://github.com/n8n-io/n8n",
+        "stars": 197392,
+        "score": 5,
+        "reason": "成熟的工作流自动化平台，支持自托管和400+集成"
+      },
+      {
+        "id": 45717250,
+        "full_name": "tensorflow/tensorflow",
+        "html_url": "https://github.com/tensorflow/tensorflow",
+        "stars": 196458,
+        "score": 5,
+        "reason": "业界标准的机器学习框架，生态完善"
+      },
+      {
+        "id": 41881900,
+        "full_name": "microsoft/vscode",
+        "html_url": "https://github.com/microsoft/vscode",
+        "stars": 187809,
+        "score": 5,
+        "reason": "最流行的代码编辑器，插件生态丰富"
+      },
+      {
+        "id": 31792824,
+        "full_name": "flutter/flutter",
+        "html_url": "https://github.com/flutter/flutter",
+        "stars": 177913,
+        "score": 5,
+        "reason": "跨平台UI框架，性能优秀"
+      },
+      {
+        "id": 658928958,
+        "full_name": "ollama/ollama",
+        "html_url": "https://github.com/ollama/ollama",
+        "stars": 176607,
+        "score": 5,
+        "reason": "本地运行大模型的首选工具，简单高效"
+      },
+      {
+        "id": 155220641,
+        "full_name": "huggingface/transformers",
+        "html_url": "https://github.com/huggingface/transformers",
+        "stars": 162815,
+        "score": 5,
+        "reason": "HuggingFace官方库，模型推理训练必备"
+      },
+      {
+        "id": 70107786,
+        "full_name": "vercel/next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stars": 141070,
+        "score": 5,
+        "reason": "React全栈框架，生产级SSR和静态生成"
+      },
+      {
+        "id": 184456251,
+        "full_name": "microsoft/PowerToys",
+        "html_url": "https://github.com/microsoft/PowerToys",
+        "stars": 136633,
+        "score": 5,
+        "reason": "Windows系统增强工具集，实用性强"
+      },
+      {
+        "id": 23096959,
+        "full_name": "golang/go",
+        "html_url": "https://github.com/golang/go",
+        "stars": 135332,
+        "score": 5,
+        "reason": "Go语言官方实现，高性能并发编程"
+      },
+      {
+        "id": 20580498,
+        "full_name": "kubernetes/kubernetes",
+        "html_url": "https://github.com/kubernetes/kubernetes",
+        "stars": 123896,
+        "score": 5,
+        "reason": "容器编排事实标准，云原生基石"
+      },
+      {
+        "id": 9384267,
+        "full_name": "electron/electron",
+        "html_url": "https://github.com/electron/electron",
+        "stars": 122129,
+        "score": 5,
+        "reason": "跨平台桌面应用开发框架，成熟稳定"
+      },
+      {
+        "id": 589831718,
+        "full_name": "Comfy-Org/ComfyUI",
+        "html_url": "https://github.com/Comfy-Org/ComfyUI",
+        "stars": 121739,
+        "score": 5,
+        "reason": "最强大的扩散模型GUI，节点式工作流"
+      },
+      {
+        "id": 612354784,
+        "full_name": "ggml-org/llama.cpp",
+        "html_url": "https://github.com/ggml-org/llama.cpp",
+        "stars": 121216,
+        "score": 5,
+        "reason": "C++实现的LLM推理引擎，性能极致"
+      },
+      {
+        "id": 724712,
+        "full_name": "rust-lang/rust",
+        "html_url": "https://github.com/rust-lang/rust",
+        "stars": 114792,
+        "score": 5,
+        "reason": "系统级编程语言，安全且高效"
+      },
+      {
+        "id": 15634981,
+        "full_name": "godotengine/godot",
+        "html_url": "https://github.com/godotengine/godot",
+        "stars": 114473,
+        "score": 5,
+        "reason": "开源游戏引擎，功能全面"
+      },
+      {
+        "id": 576201,
+        "full_name": "mrdoob/three.js",
+        "html_url": "https://github.com/mrdoob/three.js",
+        "stars": 113898,
+        "score": 5,
+        "reason": "Web 3D库事实标准，文档丰富"
+      },
+      {
+        "id": 455229168,
+        "full_name": "immich-app/immich",
+        "html_url": "https://github.com/immich-app/immich",
+        "stars": 108404,
+        "score": 5,
+        "reason": "自托管照片管理方案，谷歌相册替代品"
+      },
+      {
+        "id": 133442384,
+        "full_name": "denoland/deno",
+        "html_url": "https://github.com/denoland/deno",
+        "stars": 107793,
+        "score": 5,
+        "reason": "现代JS/TS运行时，兼容Node生态"
+      },
+      {
+        "id": 214587193,
+        "full_name": "supabase/supabase",
+        "html_url": "https://github.com/supabase/supabase",
+        "stars": 106762,
+        "score": 5,
+        "reason": "开源Firebase替代，Postgres后端平台"
+      },
+      {
+        "id": 787076358,
+        "full_name": "firecrawl/firecrawl",
+        "html_url": "https://github.com/firecrawl/firecrawl",
+        "stars": 154108,
+        "score": 4,
+        "reason": "强大的网页抓取和搜索API"
+      },
+      {
+        "id": 599320067,
+        "full_name": "langflow-ai/langflow",
+        "html_url": "https://github.com/langflow-ai/langflow",
+        "stars": 152179,
+        "score": 4,
+        "reason": "可视化AI工作流构建工具"
+      },
+      {
+        "id": 626805178,
+        "full_name": "langgenius/dify",
+        "html_url": "https://github.com/langgenius/dify",
+        "stars": 149697,
+        "score": 4,
+        "reason": "企业级AI应用开发平台"
+      },
+      {
+        "id": 552661142,
+        "full_name": "langchain-ai/langchain",
+        "html_url": "https://github.com/langchain-ai/langchain",
+        "stars": 142284,
+        "score": 4,
+        "reason": "LLM应用开发框架，生态丰富"
+      },
+      {
+        "id": 157616880,
+        "full_name": "iptv-org/iptv",
+        "html_url": "https://github.com/iptv-org/iptv",
+        "stars": 134005,
+        "score": 4,
+        "reason": "全球IPTV频道集合，实用性强"
+      },
+      {
+        "id": 968197216,
+        "full_name": "google-gemini/gemini-cli",
+        "html_url": "https://github.com/google-gemini/gemini-cli",
+        "stars": 106113,
+        "score": 4,
+        "reason": "Gemini模型终端客户端"
+      }
+    ]
+  }
+]
