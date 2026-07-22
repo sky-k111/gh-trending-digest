@@ -19,7 +19,7 @@ def main():
     yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     today = datetime.now().strftime("%Y-%m-%d")
 
-    print(f"[daily] Fetching repos created after {yesterday}...")
+    print(f"[daily] Fetching repos pushed after {yesterday}...")
 
     # 1. Fetch
     repos = fetch_trending(yesterday, cfg["github_token"])
