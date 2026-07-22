@@ -1,0 +1,35 @@
+name: Daily Digest
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # UTC 1:00 = 北京时间 9:00
+  workflow_dispatch:  # Manual trigger for testing
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run daily digest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          QQ_SMTP_USER: ${{ secrets.QQ_SMTP_USER }}
+          QQ_SMTP_PASS: ${{ secrets.QQ_SMTP_PASS }}
+        run: python scripts/daily.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "data: update seen and history [skip ci]"
+          git push

@@ -1,0 +1,25 @@
+name: Monthly Digest
+
+on:
+  schedule:
+    - cron: "0 1 1 * *"  # UTC 1:00 on 1st = 北京时间每月1日 9:00
+  workflow_dispatch:
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run monthly report
+        env:
+          QQ_SMTP_USER: ${{ secrets.QQ_SMTP_USER }}
+          QQ_SMTP_PASS: ${{ secrets.QQ_SMTP_PASS }}
+        run: python scripts/monthly.py
