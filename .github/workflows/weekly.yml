@@ -1,8 +1,6 @@
 name: Weekly Digest
 
 on:
-  push:
-    branches: [master]
   schedule:
     - cron: "0 1 * * 0"  # UTC 1:00 Sunday = 北京时间周日 9:00
   workflow_dispatch:
