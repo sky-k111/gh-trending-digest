@@ -1,7 +1,6 @@
 """Filter repos with DeepSeek AI, fallback to star-sort."""
 import json
 import requests
-from datetime import datetime
 
 DEEPSEEK_API = "https://api.deepseek.com/chat/completions"
 
@@ -82,7 +81,7 @@ def filter_with_ai(repos: list[dict], api_key: str) -> list[dict]:
         content = resp.json()["choices"][0]["message"]["content"]
         scores = _parse_scores(content)
 
-    except (requests.RequestException, KeyError, json.JSONDecodeError) as e:
+    except (requests.RequestException, KeyError, json.JSONDecodeError, TypeError) as e:
         print(f"[filter] AI filter failed: {e}, falling back to star-sort")
         return filter_by_stars(repos)
 
