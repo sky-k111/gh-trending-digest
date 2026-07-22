@@ -5,6 +5,9 @@ on:
     - cron: "0 1 * * *"  # UTC 1:00 = 北京时间 9:00
   workflow_dispatch:  # Manual trigger for testing
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -27,9 +30,12 @@ jobs:
         run: python scripts/daily.py
 
       - name: Commit updated data files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
           git add data/
           git diff --staged --quiet || git commit -m "data: update seen and history [skip ci]"
-          git push
+          git push 2>&1 || echo "[WARN] push failed (non-fatal)"
