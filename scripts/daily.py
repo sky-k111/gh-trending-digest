@@ -44,8 +44,9 @@ def main():
     picks = filter_with_ai(fresh_repos, cfg["deepseek_api_key"])
 
     if not picks:
-        print("[daily] No repos passed filter, exiting")
-        return
+        print("[daily] No repos passed AI filter, using top 3 by stars as fallback")
+        from src.filter import filter_by_stars
+        picks = filter_by_stars(fresh_repos, top_n=3)
 
     # 4. Mark as seen
     for r in picks:
