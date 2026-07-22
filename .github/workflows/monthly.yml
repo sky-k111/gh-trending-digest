@@ -1,6 +1,8 @@
 name: Monthly Digest
 
 on:
+  push:
+    branches: [master]
   schedule:
     - cron: "0 1 1 * *"  # UTC 1:00 on 1st = 北京时间每月1日 9:00
   workflow_dispatch:
