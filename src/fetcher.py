@@ -9,7 +9,7 @@ MAX_RETRIES = 3
 
 def _build_query(date_since: str) -> str:
     """Build GitHub search query for repos created after date_since."""
-    return f"pushed:>{date_since} stars:>15"
+    return f"created:>={date_since}"
 
 
 def fetch_trending(date_since: str, github_token: str = "") -> list[dict]:

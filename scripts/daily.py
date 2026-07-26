@@ -16,13 +16,13 @@ from src.store import load_seen, mark_seen, add_history_entry
 
 def main():
     cfg = get_config()
-    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    three_days_ago = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
     today = datetime.now().strftime("%Y-%m-%d")
 
-    print(f"[daily] Fetching repos pushed after {yesterday}...")
+    print(f"[daily] Fetching repos created since {three_days_ago}...")
 
     # 1. Fetch
-    repos = fetch_trending(yesterday, cfg["github_token"])
+    repos = fetch_trending(three_days_ago, cfg["github_token"])
     print(f"[daily] Fetched {len(repos)} repos")
 
     if not repos:
