@@ -292,5 +292,76 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-07-27",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1312158335,
+        "full_name": "VictorTaelin/OptMem",
+        "html_url": "https://github.com/VictorTaelin/OptMem",
+        "stars": 389,
+        "score": 4,
+        "reason": "轻量级AI记忆持久化方案，426 token即插即用"
+      },
+      {
+        "id": 1313191574,
+        "full_name": "0xwilliamortiz/openclaude-improved",
+        "html_url": "https://github.com/0xwilliamortiz/openclaude-improved",
+        "stars": 175,
+        "score": 4,
+        "reason": "跨平台AI代理运行时，支持多种后端"
+      },
+      {
+        "id": 1310624440,
+        "full_name": "jazzzooo/buz",
+        "html_url": "https://github.com/jazzzooo/buz",
+        "stars": 153,
+        "score": 4,
+        "reason": "基于现代Zig的Bun分支，性能优化潜力大"
+      },
+      {
+        "id": 1312488824,
+        "full_name": "deerwork-ai/deer-workflow",
+        "html_url": "https://github.com/deerwork-ai/deer-workflow",
+        "stars": 125,
+        "score": 4,
+        "reason": "动态工作流引擎，TypeScript编排+可替换Agent运行时"
+      },
+      {
+        "id": 1310800338,
+        "full_name": "CWS6206/EasySystemCleaner",
+        "html_url": "https://github.com/CWS6206/EasySystemCleaner",
+        "stars": 122,
+        "score": 4,
+        "reason": "Windows系统清理工具，便携版实用"
+      },
+      {
+        "id": 1311302460,
+        "full_name": "Noz2/RootHound",
+        "html_url": "https://github.com/Noz2/RootHound",
+        "stars": 90,
+        "score": 4,
+        "reason": "Linux本地提权路径映射工具，类似BloodHound"
+      },
+      {
+        "id": 1310624630,
+        "full_name": "icebird1998/scientific-illustrator",
+        "html_url": "https://github.com/icebird1998/scientific-illustrator",
+        "stars": 88,
+        "score": 4,
+        "reason": "通过Codex/MCP生成可编辑科学图表，集成PowerPoint和draw.io"
+      },
+      {
+        "id": 1311174165,
+        "full_name": "cocofhu/approving",
+        "html_url": "https://github.com/cocofhu/approving",
+        "stars": 73,
+        "score": 4,
+        "reason": "组合编码代理为可信工作流，Go语言实现"
+      }
+    ]
   }
 ]
