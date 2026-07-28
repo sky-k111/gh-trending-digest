@@ -363,5 +363,68 @@
         "reason": "组合编码代理为可信工作流，Go语言实现"
       }
     ]
+  },
+  {
+    "date": "2026-07-28",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1313576395,
+        "full_name": "MoonshotAI/Kimi-K3",
+        "html_url": "https://github.com/MoonshotAI/Kimi-K3",
+        "stars": 1994,
+        "score": 5,
+        "reason": "前沿AI模型开源，开发者可直接使用或二次开发"
+      },
+      {
+        "id": 1312338644,
+        "full_name": "NikolayS/PGSimCity",
+        "html_url": "https://github.com/NikolayS/PGSimCity",
+        "stars": 224,
+        "score": 4,
+        "reason": "创新可视化工具，帮助理解Postgres内部机制"
+      },
+      {
+        "id": 1313215450,
+        "full_name": "wassgha/rescript",
+        "html_url": "https://github.com/wassgha/rescript",
+        "stars": 182,
+        "score": 4,
+        "reason": "基于转录的在线音视频编辑器，实用且新颖"
+      },
+      {
+        "id": 1312779182,
+        "full_name": "steelbrain/reims-vgpu",
+        "html_url": "https://github.com/steelbrain/reims-vgpu",
+        "stars": 141,
+        "score": 4,
+        "reason": "实验性虚拟GPU，对macOS虚拟化有价值"
+      },
+      {
+        "id": 1312049524,
+        "full_name": "Jia-Ethan/grok-keysmith",
+        "html_url": "https://github.com/Jia-Ethan/grok-keysmith",
+        "stars": 116,
+        "score": 4,
+        "reason": "Grok构建指令部署工具，功能完整实用"
+      },
+      {
+        "id": 1312161341,
+        "full_name": "JYH1878/KimiCodeBar-Windows",
+        "html_url": "https://github.com/JYH1878/KimiCodeBar-Windows",
+        "stars": 72,
+        "score": 4,
+        "reason": "Kimi Code用量监控桌面工具，轻量实用"
+      },
+      {
+        "id": 1313284506,
+        "full_name": "OneInterface/stormy-cookbook",
+        "html_url": "https://github.com/OneInterface/stormy-cookbook",
+        "stars": 72,
+        "score": 4,
+        "reason": "社交媒体API集成指南，对AI代理开发有价值"
+      }
+    ]
   }
 ]
