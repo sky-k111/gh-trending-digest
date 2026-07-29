@@ -426,5 +426,68 @@
         "reason": "社交媒体API集成指南，对AI代理开发有价值"
       }
     ]
+  },
+  {
+    "date": "2026-07-29",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1314404827,
+        "full_name": "gavamedia/deltafin",
+        "html_url": "https://github.com/gavamedia/deltafin",
+        "stars": 147,
+        "score": 5,
+        "reason": "在Apple Silicon上运行2.8T参数MoE模型，技术突破性强"
+      },
+      {
+        "id": 1312410567,
+        "full_name": "fuadmefleh/Shared-Claude-Chats",
+        "html_url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+        "stars": 722,
+        "score": 4,
+        "reason": "实用工具，可批量抓取并导出Claude/Grok对话为Markdown"
+      },
+      {
+        "id": 1313134603,
+        "full_name": "dboudreau00/NocTORnal",
+        "html_url": "https://github.com/dboudreau00/NocTORnal",
+        "stars": 173,
+        "score": 4,
+        "reason": "面向网络犯罪调查的全栈工具集，功能完整"
+      },
+      {
+        "id": 1312609286,
+        "full_name": "sii-research/tau-0-vla",
+        "html_url": "https://github.com/sii-research/tau-0-vla",
+        "stars": 172,
+        "score": 4,
+        "reason": "机器人基础模型官方实现，研究价值高"
+      },
+      {
+        "id": 1313041772,
+        "full_name": "ogulcancelik/herdr-browser",
+        "html_url": "https://github.com/ogulcancelik/herdr-browser",
+        "stars": 125,
+        "score": 4,
+        "reason": "基于CDP的Chromium浏览器控制插件，自动化测试有用"
+      },
+      {
+        "id": 1314368765,
+        "full_name": "PipeNetwork/kimi-k3-mlx",
+        "html_url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+        "stars": 107,
+        "score": 4,
+        "reason": "Kimi K3模型的MLX移植，含专家剪枝分析"
+      },
+      {
+        "id": 1314787397,
+        "full_name": "robbin/wechat-exporter",
+        "html_url": "https://github.com/robbin/wechat-exporter",
+        "stars": 93,
+        "score": 4,
+        "reason": "微信聊天记录导出解密工具，实用性强"
+      }
+    ]
   }
 ]
