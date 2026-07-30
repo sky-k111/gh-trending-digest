@@ -489,5 +489,44 @@
         "reason": "微信聊天记录导出解密工具，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1315854686,
+        "full_name": "talivia-group/talivia",
+        "html_url": "https://github.com/talivia-group/talivia",
+        "stars": 423,
+        "score": 4,
+        "reason": "开源自托管分析工具，功能全面且替代Datafast"
+      },
+      {
+        "id": 1313435339,
+        "full_name": "QwenAudio/qwen-audio-agent",
+        "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
+        "stars": 223,
+        "score": 4,
+        "reason": "实时语音AI代理运行时，技术新颖且有明确应用场景"
+      },
+      {
+        "id": 1316453751,
+        "full_name": "0xwilliamortiz/FlashKDA",
+        "html_url": "https://github.com/0xwilliamortiz/FlashKDA",
+        "stars": 190,
+        "score": 4,
+        "reason": "高效KDA CUDA内核，对AI训练有实际优化价值"
+      },
+      {
+        "id": 1315360935,
+        "full_name": "twalichiewicz/HNewhere",
+        "html_url": "https://github.com/twalichiewicz/HNewhere",
+        "stars": 181,
+        "score": 4,
+        "reason": "轻量用户脚本，增强Hacker News浏览体验"
+      }
+    ]
   }
 ]
