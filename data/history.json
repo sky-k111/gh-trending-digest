@@ -528,5 +528,100 @@
         "reason": "轻量用户脚本，增强Hacker News浏览体验"
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "type": "daily",
+    "count": 11,
+    "repos": [
+      {
+        "id": 1315061605,
+        "full_name": "0xwilliamortiz/ponytail-improved",
+        "html_url": "https://github.com/0xwilliamortiz/ponytail-improved",
+        "stars": 564,
+        "score": 4,
+        "reason": "为AI代理提供实用开发技巧，有明确应用场景"
+      },
+      {
+        "id": 1315342480,
+        "full_name": "Noniv/snowflow_demo",
+        "html_url": "https://github.com/Noniv/snowflow_demo",
+        "stars": 348,
+        "score": 4,
+        "reason": "WebGPU实时雪景渲染demo，技术展示有价值"
+      },
+      {
+        "id": 1314535038,
+        "full_name": "starling-build/starling",
+        "html_url": "https://github.com/starling-build/starling",
+        "stars": 158,
+        "score": 4,
+        "reason": "新型Linux桌面环境，技术含量高，值得关注"
+      },
+      {
+        "id": 1315666966,
+        "full_name": "Audio8-AI/Audio8_TTS",
+        "html_url": "https://github.com/Audio8-AI/Audio8_TTS",
+        "stars": 153,
+        "score": 4,
+        "reason": "紧凑型TTS模型，有实际应用价值"
+      },
+      {
+        "id": 1314688648,
+        "full_name": "benjitaylor/drawesome",
+        "html_url": "https://github.com/benjitaylor/drawesome",
+        "stars": 141,
+        "score": 4,
+        "reason": "React绘图工具栏，简洁实用"
+      },
+      {
+        "id": 1315850048,
+        "full_name": "aigclink/geolook",
+        "html_url": "https://github.com/aigclink/geolook",
+        "stars": 135,
+        "score": 4,
+        "reason": "GEO端到端实现，功能完整，有实际应用场景"
+      },
+      {
+        "id": 1315458055,
+        "full_name": "grafana/ai-sdk",
+        "html_url": "https://github.com/grafana/ai-sdk",
+        "stars": 124,
+        "score": 4,
+        "reason": "Grafana官方AI SDK，与主流框架集成良好"
+      },
+      {
+        "id": 1314386748,
+        "full_name": "TanStack/charts",
+        "html_url": "https://github.com/TanStack/charts",
+        "stars": 122,
+        "score": 4,
+        "reason": "轻量级图表库，基于D3，适合服务端渲染"
+      },
+      {
+        "id": 1314518085,
+        "full_name": "H-EmbodVis/TurboVLA",
+        "html_url": "https://github.com/H-EmbodVis/TurboVLA",
+        "stars": 114,
+        "score": 4,
+        "reason": "实时视觉语言动作模型，性能优化出色"
+      },
+      {
+        "id": 1317565852,
+        "full_name": "ddoemonn/interior",
+        "html_url": "https://github.com/ddoemonn/interior",
+        "stars": 113,
+        "score": 4,
+        "reason": "React微交互库，专注细节体验，实用性强"
+      },
+      {
+        "id": 1314785707,
+        "full_name": "qa10devteam/behive",
+        "html_url": "https://github.com/qa10devteam/behive",
+        "stars": 106,
+        "score": 4,
+        "reason": "开源深度研究引擎，构建知识图谱，MCP原生支持"
+      }
+    ]
   }
 ]
