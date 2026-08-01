@@ -623,5 +623,76 @@
         "reason": "开源深度研究引擎，构建知识图谱，MCP原生支持"
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1316527318,
+        "full_name": "yc-software/qm",
+        "html_url": "https://github.com/yc-software/qm",
+        "stars": 2422,
+        "score": 4,
+        "reason": "多智能体协作框架，适合构建复杂工作流，但需更多生态验证"
+      },
+      {
+        "id": 1318616860,
+        "full_name": "0xwilliamortiz/ratchet",
+        "html_url": "https://github.com/0xwilliamortiz/ratchet",
+        "stars": 402,
+        "score": 4,
+        "reason": "检查AI代理是否遵循规则，对代码质量管控有实用价值"
+      },
+      {
+        "id": 1317927783,
+        "full_name": "deedy/qr-data-transfer",
+        "html_url": "https://github.com/deedy/qr-data-transfer",
+        "stars": 259,
+        "score": 4,
+        "reason": "通过二维码传输数据，创意实用且实现简洁"
+      },
+      {
+        "id": 1316443307,
+        "full_name": "microsoft/skill-recorder",
+        "html_url": "https://github.com/microsoft/skill-recorder",
+        "stars": 200,
+        "score": 4,
+        "reason": "微软官方技能录制工具，对AI代理开发有辅助价值"
+      },
+      {
+        "id": 1317358185,
+        "full_name": "ZihangDong/toolknit-desktop",
+        "html_url": "https://github.com/ZihangDong/toolknit-desktop",
+        "stars": 154,
+        "score": 4,
+        "reason": "多功能桌面工具箱，覆盖音视频图片PDF处理，实用性强"
+      },
+      {
+        "id": 1318513547,
+        "full_name": "l00sed/termixer",
+        "html_url": "https://github.com/l00sed/termixer",
+        "stars": 121,
+        "score": 4,
+        "reason": "终端混音器，创意独特且功能完整，适合音乐爱好者"
+      },
+      {
+        "id": 1316463439,
+        "full_name": "rw-r-r-0644/bc250-core-unlock",
+        "html_url": "https://github.com/rw-r-r-0644/bc250-core-unlock",
+        "stars": 115,
+        "score": 4,
+        "reason": "解锁AMD BC-250额外核心，对特定硬件用户有实际价值"
+      },
+      {
+        "id": 1316102124,
+        "full_name": "cvg/vidmap",
+        "html_url": "https://github.com/cvg/vidmap",
+        "stars": 113,
+        "score": 4,
+        "reason": "视频结构运动恢复学术项目，对CV研究者有参考价值"
+      }
+    ]
   }
 ]
