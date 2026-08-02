@@ -694,5 +694,36 @@
         "reason": "视频结构运动恢复学术项目，对CV研究者有参考价值"
       }
     ]
+  },
+  {
+    "date": "2026-08-02",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1319019946,
+        "full_name": "openai/ten-proofs",
+        "html_url": "https://github.com/openai/ten-proofs",
+        "stars": 227,
+        "score": 4,
+        "reason": "OpenAI官方Lean数学证明库，对形式化验证研究者有价值"
+      },
+      {
+        "id": 1319259570,
+        "full_name": "luckyzyx/LuckyTool",
+        "html_url": "https://github.com/luckyzyx/LuckyTool",
+        "stars": 148,
+        "score": 4,
+        "reason": "ColorOS系统优化Xposed模块，功能明确且免费，对特定用户实用"
+      },
+      {
+        "id": 1317298891,
+        "full_name": "shuaiplus/inkstone",
+        "html_url": "https://github.com/shuaiplus/inkstone",
+        "stars": 114,
+        "score": 4,
+        "reason": "自托管Markdown笔记，基于Cloudflare Workers，轻量实用"
+      }
+    ]
   }
 ]
