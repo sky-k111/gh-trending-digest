@@ -725,5 +725,52 @@
         "reason": "自托管Markdown笔记，基于Cloudflare Workers，轻量实用"
       }
     ]
+  },
+  {
+    "date": "2026-08-03",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1318768894,
+        "full_name": "trycompai/crm",
+        "html_url": "https://github.com/trycompai/crm",
+        "stars": 1926,
+        "score": 4,
+        "reason": "开源Agent优先CRM，概念新颖且代码完整，适合团队协作场景"
+      },
+      {
+        "id": 1319154759,
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "stars": 326,
+        "score": 4,
+        "reason": "纯C实现超大规模模型CPU推理，技术含量高，但部署门槛高"
+      },
+      {
+        "id": 1319174653,
+        "full_name": "Anionex/codex-vision-proxy",
+        "html_url": "https://github.com/Anionex/codex-vision-proxy",
+        "stars": 213,
+        "score": 4,
+        "reason": "为纯文本LLM提供视觉能力，解决实际痛点，方案清晰"
+      },
+      {
+        "id": 1319580960,
+        "full_name": "chen10191200-hue/GlassQuota",
+        "html_url": "https://github.com/chen10191200-hue/GlassQuota",
+        "stars": 112,
+        "score": 4,
+        "reason": "macOS菜单栏配额监控，针对AI开发者痛点，轻量实用"
+      },
+      {
+        "id": 1318383417,
+        "full_name": "thinkany-ai/dscode",
+        "html_url": "https://github.com/thinkany-ai/dscode",
+        "stars": 108,
+        "score": 4,
+        "reason": "DeepSeek驱动的编码Agent，定位明确，有实际应用价值"
+      }
+    ]
   }
 ]
