@@ -772,5 +772,60 @@
         "reason": "DeepSeek驱动的编码Agent，定位明确，有实际应用价值"
       }
     ]
+  },
+  {
+    "date": "2026-08-04",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1319609477,
+        "full_name": "0xwilliamortiz/humanizer-cli",
+        "html_url": "https://github.com/0xwilliamortiz/humanizer-cli",
+        "stars": 560,
+        "score": 4,
+        "reason": "终端AI文本检测工具，零依赖，实用性强"
+      },
+      {
+        "id": 1320444346,
+        "full_name": "disler/super-simple-software-factory",
+        "html_url": "https://github.com/disler/super-simple-software-factory",
+        "stars": 223,
+        "score": 4,
+        "reason": "可重复的软件工厂工作流，有实际代码实现"
+      },
+      {
+        "id": 1319103484,
+        "full_name": "guillermolg00/morphicons",
+        "html_url": "https://github.com/guillermolg00/morphicons",
+        "stars": 211,
+        "score": 4,
+        "reason": "图标变形动画库，轻量且实用，适合前端开发"
+      },
+      {
+        "id": 1321559698,
+        "full_name": "joeseesun/qiaomu-seo",
+        "html_url": "https://github.com/joeseesun/qiaomu-seo",
+        "stars": 182,
+        "score": 4,
+        "reason": "SEO审计工具，覆盖多搜索引擎，功能全面"
+      },
+      {
+        "id": 1320242285,
+        "full_name": "magicrew/doc7",
+        "html_url": "https://github.com/magicrew/doc7",
+        "stars": 155,
+        "score": 4,
+        "reason": "文档转Markdown工具，支持多模态，实用性强"
+      },
+      {
+        "id": 1319927892,
+        "full_name": "alikon-art/DeterminFlow",
+        "html_url": "https://github.com/alikon-art/DeterminFlow",
+        "stars": 135,
+        "score": 4,
+        "reason": "AI工作流运行时，面向生产，功能完整"
+      }
+    ]
   }
 ]
