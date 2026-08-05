@@ -827,5 +827,36 @@
         "reason": "AI工作流运行时，面向生产，功能完整"
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1322012299,
+        "full_name": "firecrawl/anydoc",
+        "html_url": "https://github.com/firecrawl/anydoc",
+        "stars": 1867,
+        "score": 5,
+        "reason": "高性能文档转换工具，支持多种格式转Markdown，提供多语言绑定，实用性强"
+      },
+      {
+        "id": 1322509558,
+        "full_name": "AMAP-ML/LongHorizon-Harness",
+        "html_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+        "stars": 208,
+        "score": 4,
+        "reason": "长时程AI代理运行框架，支持桌面和CLI，对自动化工作流有价值"
+      },
+      {
+        "id": 1322226624,
+        "full_name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
+        "html_url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+        "stars": 154,
+        "score": 4,
+        "reason": "ComfyUI加速插件，针对特定模型优化，对AI视频生成用户有价值"
+      }
+    ]
   }
 ]
