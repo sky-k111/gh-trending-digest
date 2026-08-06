@@ -858,5 +858,52 @@
         "reason": "ComfyUI加速插件，针对特定模型优化，对AI视频生成用户有价值"
       }
     ]
+  },
+  {
+    "date": "2026-08-06",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1323511527,
+        "full_name": "KKKKhazix/human-writing",
+        "html_url": "https://github.com/KKKKhazix/human-writing",
+        "stars": 1230,
+        "score": 4,
+        "reason": "实用的AI写作风格化工具，开箱即用，适合中文内容创作者"
+      },
+      {
+        "id": 1323763720,
+        "full_name": "Binaryify/open-kimi-ppt-skill",
+        "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+        "stars": 784,
+        "score": 4,
+        "reason": "让AI生成可编辑PPT的实用Skill，附带本地编辑器，工作流完整"
+      },
+      {
+        "id": 1324285410,
+        "full_name": "0xwilliamortiz/claude-red",
+        "html_url": "https://github.com/0xwilliamortiz/claude-red",
+        "stars": 332,
+        "score": 4,
+        "reason": "为Claude提供进攻性安全技能的库，对安全研究人员有实用价值"
+      },
+      {
+        "id": 1322798245,
+        "full_name": "cristicretu/diri",
+        "html_url": "https://github.com/cristicretu/diri",
+        "stars": 207,
+        "score": 4,
+        "reason": "macOS上并行编排多个编码Agent的工具，对多Agent工作流有实际价值"
+      },
+      {
+        "id": 1322754000,
+        "full_name": "oil-oil/codex-deepseek-subagent",
+        "html_url": "https://github.com/oil-oil/codex-deepseek-subagent",
+        "stars": 140,
+        "score": 4,
+        "reason": "将DeepSeek配置为Codex子代理的自动化工具，实用且配置清晰"
+      }
+    ]
   }
 ]
