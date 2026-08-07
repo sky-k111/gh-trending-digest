@@ -905,5 +905,84 @@
         "reason": "将DeepSeek配置为Codex子代理的自动化工具，实用且配置清晰"
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "type": "daily",
+    "count": 9,
+    "repos": [
+      {
+        "id": 1323127278,
+        "full_name": "criptogus/HermesOffice",
+        "html_url": "https://github.com/criptogus/HermesOffice",
+        "stars": 397,
+        "score": 4,
+        "reason": "AI原生办公套件，功能完整，有实际应用价值"
+      },
+      {
+        "id": 1322943860,
+        "full_name": "SandAI-org/MAGI-2-preview",
+        "html_url": "https://github.com/SandAI-org/MAGI-2-preview",
+        "stars": 392,
+        "score": 4,
+        "reason": "视频生成模型的高效缩放方案，有技术深度，适合研究者"
+      },
+      {
+        "id": 1322698650,
+        "full_name": "jd-opensource/JoyAI-Video-Edit",
+        "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+        "stars": 244,
+        "score": 4,
+        "reason": "京东开源视频编辑工具，有官方仓库，技术实现规范"
+      },
+      {
+        "id": 1322481762,
+        "full_name": "KimGLee/Cambium",
+        "html_url": "https://github.com/KimGLee/Cambium",
+        "stars": 204,
+        "score": 4,
+        "reason": "LLM维护知识库的治理工具，概念新颖且有参考实现"
+      },
+      {
+        "id": 1323692802,
+        "full_name": "pengchujin/tower",
+        "html_url": "https://github.com/pengchujin/tower",
+        "stars": 175,
+        "score": 4,
+        "reason": "原生SwiftUI工具，解决机场订阅管理痛点，实用性强"
+      },
+      {
+        "id": 1322400160,
+        "full_name": "domaup/coldcard-poc",
+        "html_url": "https://github.com/domaup/coldcard-poc",
+        "stars": 158,
+        "score": 4,
+        "reason": "安全漏洞PoC工具，对安全研究者有参考价值"
+      },
+      {
+        "id": 1323039537,
+        "full_name": "seesee75-commits/ComfyUI-MiniMaxH3-Director",
+        "html_url": "https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director",
+        "stars": 139,
+        "score": 4,
+        "reason": "功能丰富的ComfyUI时间线编辑器，描述详细，实用性强"
+      },
+      {
+        "id": 1322755678,
+        "full_name": "akalikbergenov/cyclop",
+        "html_url": "https://github.com/akalikbergenov/cyclop",
+        "stars": 125,
+        "score": 4,
+        "reason": "MacBook动态岛工具，功能多样，原生实现，有创意"
+      },
+      {
+        "id": 1322640431,
+        "full_name": "waiterve/wai-play",
+        "html_url": "https://github.com/waiterve/wai-play",
+        "stars": 117,
+        "score": 4,
+        "reason": "AI游戏测试平台，有明确应用场景，技术栈合理"
+      }
+    ]
   }
 ]
