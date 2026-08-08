@@ -984,5 +984,44 @@
         "reason": "AI游戏测试平台，有明确应用场景，技术栈合理"
       }
     ]
+  },
+  {
+    "date": "2026-08-08",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1324578069,
+        "full_name": "xoreaxeaxeax/asm-hall-of-shame",
+        "html_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "stars": 297,
+        "score": 4,
+        "reason": "有趣的CPU性能反面教材集合，对底层开发者有启发价值"
+      },
+      {
+        "id": 1325096132,
+        "full_name": "eternityspring/shuohao-skills",
+        "html_url": "https://github.com/eternityspring/shuohao-skills",
+        "stars": 193,
+        "score": 4,
+        "reason": "为AI编码代理提供实用技能包，提升开发效率"
+      },
+      {
+        "id": 1325736614,
+        "full_name": "RidgeRookPattern/comix-autoclipper",
+        "html_url": "https://github.com/RidgeRookPattern/comix-autoclipper",
+        "stars": 121,
+        "score": 4,
+        "reason": "功能完整的漫画下载工具，GUI和CLI兼备，实用性强"
+      },
+      {
+        "id": 1324117656,
+        "full_name": "ZestfulPulse/ios-app-store-submit",
+        "html_url": "https://github.com/ZestfulPulse/ios-app-store-submit",
+        "stars": 92,
+        "score": 4,
+        "reason": "自动化App Store提交的Claude Code技能，节省重复操作时间"
+      }
+    ]
   }
 ]
