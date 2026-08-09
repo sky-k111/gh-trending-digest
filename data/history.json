@@ -1023,5 +1023,52 @@
         "reason": "自动化App Store提交的Claude Code技能，节省重复操作时间"
       }
     ]
+  },
+  {
+    "date": "2026-08-09",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1326654671,
+        "full_name": "oil-oil/oil-motion",
+        "html_url": "https://github.com/oil-oil/oil-motion",
+        "stars": 310,
+        "score": 4,
+        "reason": "提供流畅响应式Web动画创建能力，实用且文档清晰"
+      },
+      {
+        "id": 1327214801,
+        "full_name": "ShawnPana/phone-harness",
+        "html_url": "https://github.com/ShawnPana/phone-harness",
+        "stars": 258,
+        "score": 4,
+        "reason": "让AI代理控制手机，自动化潜力大，值得关注"
+      },
+      {
+        "id": 1326101488,
+        "full_name": "Samin100/codex-ios-assistant",
+        "html_url": "https://github.com/Samin100/codex-ios-assistant",
+        "stars": 139,
+        "score": 4,
+        "reason": "通过iMessage控制iPhone，集成方案实用且创新"
+      },
+      {
+        "id": 1327741635,
+        "full_name": "Appllama/top-welcome-screens",
+        "html_url": "https://github.com/Appllama/top-welcome-screens",
+        "stars": 120,
+        "score": 4,
+        "reason": "高质量iOS欢迎屏动画示例，React Native开发者可借鉴"
+      },
+      {
+        "id": 1326063290,
+        "full_name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+        "html_url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+        "stars": 115,
+        "score": 4,
+        "reason": "ComfyUI节点实现视频生成上下文延续，对AI视频工作流有价值"
+      }
+    ]
   }
 ]
