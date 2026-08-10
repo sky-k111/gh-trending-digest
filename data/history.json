@@ -1070,5 +1070,60 @@
         "reason": "ComfyUI节点实现视频生成上下文延续，对AI视频工作流有价值"
       }
     ]
+  },
+  {
+    "date": "2026-08-10",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1328527258,
+        "full_name": "Sateezg/codex-bridge",
+        "html_url": "https://github.com/Sateezg/codex-bridge",
+        "stars": 346,
+        "score": 4,
+        "reason": "为Claude Code提供图像生成能力，实用且无需额外API密钥"
+      },
+      {
+        "id": 1326574350,
+        "full_name": "sv-number/mcp-server",
+        "html_url": "https://github.com/sv-number/mcp-server",
+        "stars": 260,
+        "score": 4,
+        "reason": "为AI代理提供临时手机号接收验证码，解决实际痛点"
+      },
+      {
+        "id": 1327361556,
+        "full_name": "Kylin010/tcpfit",
+        "html_url": "https://github.com/Kylin010/tcpfit",
+        "stars": 175,
+        "score": 4,
+        "reason": "基于实测的TCP调优工具，避免盲目套参数，对网络性能优化有价值"
+      },
+      {
+        "id": 1327225282,
+        "full_name": "tanishqkancharla/calldiff",
+        "html_url": "https://github.com/tanishqkancharla/calldiff",
+        "stars": 144,
+        "score": 4,
+        "reason": "跨git提交的函数调用栈diff，对代码审查和AI代理调试很有帮助"
+      },
+      {
+        "id": 1328517501,
+        "full_name": "MengMengCode/VoCat",
+        "html_url": "https://github.com/MengMengCode/VoCat",
+        "stars": 113,
+        "score": 4,
+        "reason": "蜂窝调制解调器管理面板，对物联网开发者实用"
+      },
+      {
+        "id": 1328769721,
+        "full_name": "SaladDay/pi-from-scratch",
+        "html_url": "https://github.com/SaladDay/pi-from-scratch",
+        "stars": 113,
+        "score": 4,
+        "reason": "迷你版pi-agent实现，教学价值高，帮助理解agent原理"
+      }
+    ]
   }
 ]
