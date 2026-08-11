@@ -1125,5 +1125,92 @@
         "reason": "迷你版pi-agent实现，教学价值高，帮助理解agent原理"
       }
     ]
+  },
+  {
+    "date": "2026-08-11",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1328199490,
+        "full_name": "fzakaria/nixpkgs-multiverse",
+        "html_url": "https://github.com/fzakaria/nixpkgs-multiverse",
+        "stars": 155,
+        "score": 5,
+        "reason": "Nix生态中解决多版本包管理痛点的实用工具"
+      },
+      {
+        "id": 1328627783,
+        "full_name": "antirez/h3.c",
+        "html_url": "https://github.com/antirez/h3.c",
+        "stars": 324,
+        "score": 4,
+        "reason": "针对Mac的MiniMax H3推理引擎，对特定硬件用户有实用价值"
+      },
+      {
+        "id": 1327824705,
+        "full_name": "amiralibg/unstream",
+        "html_url": "https://github.com/amiralibg/unstream",
+        "stars": 173,
+        "score": 4,
+        "reason": "多平台音乐链接转MP3下载工具，实用且无需API密钥"
+      },
+      {
+        "id": 1327976559,
+        "full_name": "jmarshall23/tech5",
+        "html_url": "https://github.com/jmarshall23/tech5",
+        "stars": 169,
+        "score": 4,
+        "reason": "idTech 5引擎逆向重制，对游戏开发研究有较高价值"
+      },
+      {
+        "id": 1328958105,
+        "full_name": "MkThingsHQ/mkdirs",
+        "html_url": "https://github.com/MkThingsHQ/mkdirs",
+        "stars": 166,
+        "score": 4,
+        "reason": "AI驱动的目录网站模板，基于Next.js，可直接用于项目启动"
+      },
+      {
+        "id": 1329142870,
+        "full_name": "rit3zh/expo-content-transition",
+        "html_url": "https://github.com/rit3zh/expo-content-transition",
+        "stars": 118,
+        "score": 4,
+        "reason": "React Native原生内容过渡动画库，对移动开发者有实用价值"
+      },
+      {
+        "id": 1329162393,
+        "full_name": "shinyquagsire23/Klepton",
+        "html_url": "https://github.com/shinyquagsire23/Klepton",
+        "stars": 111,
+        "score": 4,
+        "reason": "在visionOS上运行Android XR应用的兼容层，技术上有创新性"
+      },
+      {
+        "id": 1327944965,
+        "full_name": "andrewpollack/linkedin-feed-blocker",
+        "html_url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+        "stars": 99,
+        "score": 4,
+        "reason": "简洁实用的Chrome扩展，解决具体痛点"
+      },
+      {
+        "id": 1327360831,
+        "full_name": "kasturikhanke/generative-loaders",
+        "html_url": "https://github.com/kasturikhanke/generative-loaders",
+        "stars": 99,
+        "score": 4,
+        "reason": "面向生成式UI的React加载状态组件，符合当前AI应用开发趋势"
+      },
+      {
+        "id": 1328100469,
+        "full_name": "gpwn-org/gpwn-toolkit",
+        "html_url": "https://github.com/gpwn-org/gpwn-toolkit",
+        "stars": 90,
+        "score": 4,
+        "reason": "GPON光纤部署测试工具集，对网络工程师有专业价值"
+      }
+    ]
   }
 ]
