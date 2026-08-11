@@ -1212,5 +1212,44 @@
         "reason": "GPON光纤部署测试工具集，对网络工程师有专业价值"
       }
     ]
+  },
+  {
+    "date": "2026-08-11",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1328173565,
+        "full_name": "JayJokerr/arknights-pixel-autofill",
+        "html_url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+        "stars": 201,
+        "score": 4,
+        "reason": "针对特定游戏社区的像素画转换工具，功能明确且实用"
+      },
+      {
+        "id": 1328250646,
+        "full_name": "UNDERdecoded/Gen2Recomped",
+        "html_url": "https://github.com/UNDERdecoded/Gen2Recomped",
+        "stars": 141,
+        "score": 4,
+        "reason": "宝可梦二代反编译项目，对游戏逆向社区有实际价值"
+      },
+      {
+        "id": 1327327043,
+        "full_name": "GOROman/vibewatch",
+        "html_url": "https://github.com/GOROman/vibewatch",
+        "stars": 117,
+        "score": 4,
+        "reason": "硬件计时器与AI编程结合，创意实用，适合特定工作流"
+      },
+      {
+        "id": 1327329738,
+        "full_name": "tllovesxs/cc-switch-route",
+        "html_url": "https://github.com/tllovesxs/cc-switch-route",
+        "stars": 93,
+        "score": 4,
+        "reason": "cc-switch路由增强工具，无侵入设计，对Claude Code用户实用"
+      }
+    ]
   }
 ]
