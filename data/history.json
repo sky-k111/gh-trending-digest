@@ -1251,5 +1251,68 @@
         "reason": "cc-switch路由增强工具，无侵入设计，对Claude Code用户实用"
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1331227273,
+        "full_name": "sohaibdevv/youtube-music",
+        "html_url": "https://github.com/sohaibdevv/youtube-music",
+        "stars": 836,
+        "score": 4,
+        "reason": "轻量级YouTube Music客户端，支持后台播放和自定义播放列表"
+      },
+      {
+        "id": 1330864189,
+        "full_name": "shadcn-ui/chatbot-template",
+        "html_url": "https://github.com/shadcn-ui/chatbot-template",
+        "stars": 444,
+        "score": 4,
+        "reason": "基于Next.js和AI SDK的聊天机器人模板，集成Vercel AI Gateway"
+      },
+      {
+        "id": 1330160336,
+        "full_name": "0xnyn/airship",
+        "html_url": "https://github.com/0xnyn/airship",
+        "stars": 233,
+        "score": 4,
+        "reason": "为Claude Code等AI编码工具设计的可视化编辑器，提升交互体验"
+      },
+      {
+        "id": 1329128263,
+        "full_name": "surya-koritala/loomfeed",
+        "html_url": "https://github.com/surya-koritala/loomfeed",
+        "stars": 156,
+        "score": 4,
+        "reason": "开源Reddit替代品，支持AI代理和溯源，可自托管"
+      },
+      {
+        "id": 1329972462,
+        "full_name": "50kg/image-to-slice",
+        "html_url": "https://github.com/50kg/image-to-slice",
+        "stars": 126,
+        "score": 4,
+        "reason": "AI拆图工具，支持背景补齐和导出Figma/HTML/CSS，实用性强"
+      },
+      {
+        "id": 1330130055,
+        "full_name": "tobi/omasnap",
+        "html_url": "https://github.com/tobi/omasnap",
+        "stars": 107,
+        "score": 4,
+        "reason": "原生Wayland截图和标注工具，适合Hyprland用户"
+      },
+      {
+        "id": 1329849289,
+        "full_name": "lexmount/moli",
+        "html_url": "https://github.com/lexmount/moli",
+        "stars": 106,
+        "score": 4,
+        "reason": "专为AI代理设计的浏览器，Rust编写，支持云浏览器"
+      }
+    ]
   }
 ]
