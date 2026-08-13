@@ -1314,5 +1314,36 @@
         "reason": "专为AI代理设计的浏览器，Rust编写，支持云浏览器"
       }
     ]
+  },
+  {
+    "date": "2026-08-13",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1331135699,
+        "full_name": "guillaumemeyer/watermarks-remover",
+        "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+        "stars": 2659,
+        "score": 4,
+        "reason": "实用的AI溯源信息清理工具，支持多种格式，但涉及伦理边界"
+      },
+      {
+        "id": 1332080070,
+        "full_name": "dmmulroy/anti-slop",
+        "html_url": "https://github.com/dmmulroy/anti-slop",
+        "stars": 373,
+        "score": 4,
+        "reason": "有价值的代码质量检查规则集，可提升AI生成代码质量"
+      },
+      {
+        "id": 1330516937,
+        "full_name": "wanshuiyin/HERO-Anti-OverDefense",
+        "html_url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+        "stars": 119,
+        "score": 4,
+        "reason": "实用的AI编码代理约束规则，可减少过度设计"
+      }
+    ]
   }
 ]
