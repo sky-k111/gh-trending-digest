@@ -1345,5 +1345,76 @@
         "reason": "实用的AI编码代理约束规则，可减少过度设计"
       }
     ]
+  },
+  {
+    "date": "2026-08-14",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1333065091,
+        "full_name": "deepseek-ai/deepseek-harness",
+        "html_url": "https://github.com/deepseek-ai/deepseek-harness",
+        "stars": 63708,
+        "score": 5,
+        "reason": "插件化架构的AI工具平台，生态丰富，实用性强。"
+      },
+      {
+        "id": 1333170396,
+        "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
+        "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "stars": 1073,
+        "score": 4,
+        "reason": "深入研究DRAM扰乱的硬件安全工具，技术含量高。"
+      },
+      {
+        "id": 1333135492,
+        "full_name": "Leutenegger/book-to-skill",
+        "html_url": "https://github.com/Leutenegger/book-to-skill",
+        "stars": 1032,
+        "score": 4,
+        "reason": "将技术书籍转化为可交互技能，提升学习效率。"
+      },
+      {
+        "id": 1333111893,
+        "full_name": "ccch1mneyyy/dsh-TUI",
+        "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
+        "stars": 438,
+        "score": 4,
+        "reason": "为DSH提供终端UI，满足CLI用户需求，实用。"
+      },
+      {
+        "id": 1330867309,
+        "full_name": "shadcn-labs/pdfcn",
+        "html_url": "https://github.com/shadcn-labs/pdfcn",
+        "stars": 379,
+        "score": 4,
+        "reason": "零配置的PDF生成组件，简化开发流程。"
+      },
+      {
+        "id": 1332781509,
+        "full_name": "elie222/rakazo",
+        "html_url": "https://github.com/elie222/rakazo",
+        "stars": 261,
+        "score": 4,
+        "reason": "开源Grok Bot替代品，支持自定义模型和沙箱。"
+      },
+      {
+        "id": 1333100071,
+        "full_name": "Anionex/dsh-vision-toolkit",
+        "html_url": "https://github.com/Anionex/dsh-vision-toolkit",
+        "stars": 221,
+        "score": 4,
+        "reason": "增强DSH视觉能力的插件，功能丰富实用。"
+      },
+      {
+        "id": 1332216413,
+        "full_name": "wzchav/tokentab",
+        "html_url": "https://github.com/wzchav/tokentab",
+        "stars": 211,
+        "score": 4,
+        "reason": "CLI成本分析工具，对AI开发者实用。"
+      }
+    ]
   }
 ]
