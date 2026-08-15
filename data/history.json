@@ -1416,5 +1416,60 @@
         "reason": "CLI成本分析工具，对AI开发者实用。"
       }
     ]
+  },
+  {
+    "date": "2026-08-15",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1333321333,
+        "full_name": "anywhere-labs/deepseek-harness-desktop",
+        "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+        "stars": 2147,
+        "score": 4,
+        "reason": "为DeepSeek Harness提供现代化桌面端，提升开发体验，但依赖特定生态"
+      },
+      {
+        "id": 1331636953,
+        "full_name": "zhu1090093659/dsh-web-ui",
+        "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
+        "stars": 1985,
+        "score": 4,
+        "reason": "丰富的DSH Web UI插件集合，功能多样，实用性强"
+      },
+      {
+        "id": 1332009127,
+        "full_name": "vercel-labs/eve-software-factory-template",
+        "html_url": "https://github.com/vercel-labs/eve-software-factory-template",
+        "stars": 598,
+        "score": 4,
+        "reason": "Vercel官方AI软件工厂模板，实用且具参考价值"
+      },
+      {
+        "id": 1333329582,
+        "full_name": "NousResearch/Hermes-Bot-Mode",
+        "html_url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+        "stars": 394,
+        "score": 4,
+        "reason": "为Hermes桌面提供多代理管理插件，功能实用"
+      },
+      {
+        "id": 1333556422,
+        "full_name": "decionis/agent-safe-pipeline",
+        "html_url": "https://github.com/decionis/agent-safe-pipeline",
+        "stars": 376,
+        "score": 4,
+        "reason": "AI代理安全管道的参考架构，有实际应用价值"
+      },
+      {
+        "id": 1331941733,
+        "full_name": "Carasibana/ComfyUI-H3-FaceRefine",
+        "html_url": "https://github.com/Carasibana/ComfyUI-H3-FaceRefine",
+        "stars": 195,
+        "score": 4,
+        "reason": "ComfyUI自定义节点，提升视频人脸质量，实用性强"
+      }
+    ]
   }
 ]
