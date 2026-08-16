@@ -1471,5 +1471,28 @@
         "reason": "ComfyUI自定义节点，提升视频人脸质量，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-08-16",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1332935366,
+        "full_name": "xyiqq/skilldoctor",
+        "html_url": "https://github.com/xyiqq/skilldoctor",
+        "stars": 243,
+        "score": 4,
+        "reason": "Agent技能质量检查工具，实用且有创新性"
+      },
+      {
+        "id": 1333718792,
+        "full_name": "hairyf/deepseek-harness-desktop",
+        "html_url": "https://github.com/hairyf/deepseek-harness-desktop",
+        "stars": 177,
+        "score": 4,
+        "reason": "轻量级DSH桌面端，跨平台且体积小，实用性强"
+      }
+    ]
   }
 ]
