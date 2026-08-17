@@ -1494,5 +1494,52 @@
         "reason": "轻量级DSH桌面端，跨平台且体积小，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1333884889,
+        "full_name": "ZSvirt/zsvirt",
+        "html_url": "https://github.com/ZSvirt/zsvirt",
+        "stars": 580,
+        "score": 4,
+        "reason": "云基础设施引擎，技术含量高，但需评估成熟度"
+      },
+      {
+        "id": 1334430510,
+        "full_name": "Endokelp/Endoplexity",
+        "html_url": "https://github.com/Endokelp/Endoplexity",
+        "stars": 224,
+        "score": 4,
+        "reason": "利用现有订阅实现浏览器自动化，思路新颖且实用"
+      },
+      {
+        "id": 1333728741,
+        "full_name": "YangJiiii/3105",
+        "html_url": "https://github.com/YangJiiii/3105",
+        "stars": 160,
+        "score": 4,
+        "reason": "iOS应用数据浏览器，功能实用且平台明确"
+      },
+      {
+        "id": 1334236900,
+        "full_name": "pg83/solo",
+        "html_url": "https://github.com/pg83/solo",
+        "stars": 158,
+        "score": 4,
+        "reason": "便携Linux二进制方案，解决实际痛点"
+      },
+      {
+        "id": 1334657231,
+        "full_name": "soumatheusgomes/vibe-coding-toolkit",
+        "html_url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
+        "stars": 152,
+        "score": 4,
+        "reason": "AI编码工具集，提炼自生产实践，有参考价值"
+      }
+    ]
   }
 ]
