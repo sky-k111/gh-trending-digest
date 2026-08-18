@@ -1541,5 +1541,84 @@
         "reason": "AI编码工具集，提炼自生产实践，有参考价值"
       }
     ]
+  },
+  {
+    "date": "2026-08-18",
+    "type": "daily",
+    "count": 9,
+    "repos": [
+      {
+        "id": 1336933337,
+        "full_name": "yetone/cumora",
+        "html_url": "https://github.com/yetone/cumora",
+        "stars": 1418,
+        "score": 4,
+        "reason": "创新的AI团队协作平台，支持多种AI后端，概念新颖且实现完整"
+      },
+      {
+        "id": 1334747723,
+        "full_name": "fufankeji/deepseek-harness-studio",
+        "html_url": "https://github.com/fufankeji/deepseek-harness-studio",
+        "stars": 241,
+        "score": 4,
+        "reason": "DeepSeek桌面管理工具，提供零代码操作体验，实用性强"
+      },
+      {
+        "id": 1335304622,
+        "full_name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
+        "html_url": "https://github.com/LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
+        "stars": 195,
+        "score": 4,
+        "reason": "ComfyUI多功能节点，集成多种视频生成能力，实用价值高"
+      },
+      {
+        "id": 1335803704,
+        "full_name": "missuo/kumone",
+        "html_url": "https://github.com/missuo/kumone",
+        "stars": 150,
+        "score": 4,
+        "reason": "原生macOS网易云音乐客户端，SwiftUI实现，体验良好"
+      },
+      {
+        "id": 1335351545,
+        "full_name": "anonrig/router",
+        "html_url": "https://github.com/anonrig/router",
+        "stars": 135,
+        "score": 4,
+        "reason": "高性能React路由库，基于TanStack Router优化，值得关注"
+      },
+      {
+        "id": 1336248697,
+        "full_name": "bawadou/ai-data-extractor",
+        "html_url": "https://github.com/bawadou/ai-data-extractor",
+        "stars": 128,
+        "score": 4,
+        "reason": "AI对话历史提取工具，支持多种主流AI编码助手，实用性强"
+      },
+      {
+        "id": 1336487943,
+        "full_name": "browser-use/macos-harness",
+        "html_url": "https://github.com/browser-use/macos-harness",
+        "stars": 122,
+        "score": 4,
+        "reason": "让LLM控制Mac的轻量工具，自动化潜力大"
+      },
+      {
+        "id": 1335343942,
+        "full_name": "KickNext/morphnext",
+        "html_url": "https://github.com/KickNext/morphnext",
+        "stars": 115,
+        "score": 4,
+        "reason": "Flutter图标变形动画库，实现优雅且实用"
+      },
+      {
+        "id": 1334813398,
+        "full_name": "tritant/ComfyUI_MiniMax_H3_Extender",
+        "html_url": "https://github.com/tritant/ComfyUI_MiniMax_H3_Extender",
+        "stars": 110,
+        "score": 4,
+        "reason": "ComfyUI视频扩展节点，功能完善，支持多片段串联"
+      }
+    ]
   }
 ]
