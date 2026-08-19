@@ -1620,5 +1620,68 @@
         "reason": "ComfyUI视频扩展节点，功能完善，支持多片段串联"
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1337089243,
+        "full_name": "jdshfhds/northcinder",
+        "html_url": "https://github.com/jdshfhds/northcinder",
+        "stars": 1158,
+        "score": 4,
+        "reason": "购物代理MCP软件，功能明确且有审计追踪，实用性强"
+      },
+      {
+        "id": 1336663851,
+        "full_name": "SigmanticAI/apex-inference-chip",
+        "html_url": "https://github.com/SigmanticAI/apex-inference-chip",
+        "stars": 382,
+        "score": 4,
+        "reason": "FPGA上运行真实LLM的推理芯片设计，技术含量高且有实测数据"
+      },
+      {
+        "id": 1336482340,
+        "full_name": "DFarm6/Prism-Browser-Community",
+        "html_url": "https://github.com/DFarm6/Prism-Browser-Community",
+        "stars": 200,
+        "score": 4,
+        "reason": "本地优先的多配置文件指纹浏览器，基于Chromium和Electron，隐私工具有实用价值"
+      },
+      {
+        "id": 1335823455,
+        "full_name": "chengyi-ai/native-subtitle-quote-image",
+        "html_url": "https://github.com/chengyi-ai/native-subtitle-quote-image",
+        "stars": 120,
+        "score": 4,
+        "reason": "保留视频内嵌字幕生成社交长图的Agent Skill，实用且实现清晰"
+      },
+      {
+        "id": 1336707765,
+        "full_name": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+        "html_url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+        "stars": 119,
+        "score": 4,
+        "reason": "Minimax H3视频生成潜空间放大工具，有明确性能优化价值"
+      },
+      {
+        "id": 1336155185,
+        "full_name": "Glitch-Cat-Club/graph-memory-starter",
+        "html_url": "https://github.com/Glitch-Cat-Club/graph-memory-starter",
+        "stars": 110,
+        "score": 4,
+        "reason": "知识图谱记忆实现简洁，三张SQLite表加递归查询，轻量实用"
+      },
+      {
+        "id": 1338396301,
+        "full_name": "littledivy/dgit",
+        "html_url": "https://github.com/littledivy/dgit",
+        "stars": 108,
+        "score": 4,
+        "reason": "基于Durable Objects的Git托管实现，技术新颖且有实际应用场景"
+      }
+    ]
   }
 ]
