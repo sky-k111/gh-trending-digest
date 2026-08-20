@@ -1683,5 +1683,68 @@
         "reason": "基于Durable Objects的Git托管实现，技术新颖且有实际应用场景"
       }
     ]
+  },
+  {
+    "date": "2026-08-20",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1339730061,
+        "full_name": "Leutenegger/watermarks-remover",
+        "html_url": "https://github.com/Leutenegger/watermarks-remover",
+        "stars": 913,
+        "score": 4,
+        "reason": "实用的水印与元数据清理工具，支持多格式，对隐私保护有价值。"
+      },
+      {
+        "id": 1336502227,
+        "full_name": "CopilotKit/openbot",
+        "html_url": "https://github.com/CopilotKit/openbot",
+        "stars": 546,
+        "score": 4,
+        "reason": "开源AI代理工作台，提供浏览器和文件操作，治理机制完善，值得关注。"
+      },
+      {
+        "id": 1339208118,
+        "full_name": "missuo/herdrm",
+        "html_url": "https://github.com/missuo/herdrm",
+        "stars": 433,
+        "score": 4,
+        "reason": "为编码代理提供跨设备终端管理，提升多代理工作流效率。"
+      },
+      {
+        "id": 1337733621,
+        "full_name": "Spielewoy/autoprompt-skill",
+        "html_url": "https://github.com/Spielewoy/autoprompt-skill",
+        "stars": 318,
+        "score": 4,
+        "reason": "能显著降低代理编码任务失败率，有量化数据支撑，实用性强。"
+      },
+      {
+        "id": 1337918481,
+        "full_name": "amitshekhariitbhu/llm-inference-engineering",
+        "html_url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+        "stars": 181,
+        "score": 4,
+        "reason": "LLM推理工程系统教程，内容详实，适合进阶学习，但属教程类。"
+      },
+      {
+        "id": 1337044566,
+        "full_name": "JetBrains/benjamin-plus-skill",
+        "html_url": "https://github.com/JetBrains/benjamin-plus-skill",
+        "stars": 162,
+        "score": 4,
+        "reason": "JetBrains官方出品，有量化成本节省数据，值得尝试。"
+      },
+      {
+        "id": 1338237504,
+        "full_name": "iAmCorey/Wake",
+        "html_url": "https://github.com/iAmCorey/Wake",
+        "stars": 132,
+        "score": 4,
+        "reason": "集中管理Mac上的编码代理会话，搜索恢复方便，提升效率。"
+      }
+    ]
   }
 ]
