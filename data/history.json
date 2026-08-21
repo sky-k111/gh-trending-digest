@@ -1746,5 +1746,36 @@
         "reason": "集中管理Mac上的编码代理会话，搜索恢复方便，提升效率。"
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1341259811,
+        "full_name": "Leutenegger/vanity-eth",
+        "html_url": "https://github.com/Leutenegger/vanity-eth",
+        "stars": 801,
+        "score": 4,
+        "reason": "离线加密货币地址生成器，功能完整且支持多币种"
+      },
+      {
+        "id": 1341215696,
+        "full_name": "Leutenegger/coldcard-airgap",
+        "html_url": "https://github.com/Leutenegger/coldcard-airgap",
+        "stars": 607,
+        "score": 4,
+        "reason": "Coldcard硬件钱包离线工具集，安全实用且功能全面"
+      },
+      {
+        "id": 1340189487,
+        "full_name": "jsongmax/oci-core",
+        "html_url": "https://github.com/jsongmax/oci-core",
+        "stars": 104,
+        "score": 4,
+        "reason": "Oracle Cloud多账号管理面板，单二进制部署便捷实用"
+      }
+    ]
   }
 ]
