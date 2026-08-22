@@ -1777,5 +1777,60 @@
         "reason": "Oracle Cloud多账号管理面板，单二进制部署便捷实用"
       }
     ]
+  },
+  {
+    "date": "2026-08-22",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1341759590,
+        "full_name": "MengTo/threeui",
+        "html_url": "https://github.com/MengTo/threeui",
+        "stars": 587,
+        "score": 4,
+        "reason": "提供可交互的Three.js UI组件库，适合WebGL开发者参考"
+      },
+      {
+        "id": 1342192526,
+        "full_name": "Leutenegger/claudish-to-english",
+        "html_url": "https://github.com/Leutenegger/claudish-to-english",
+        "stars": 579,
+        "score": 4,
+        "reason": "将Claude回复转为通俗语言的插件，支持本地模型，实用性强"
+      },
+      {
+        "id": 1339882322,
+        "full_name": "ZSeven-W/dsh-ios",
+        "html_url": "https://github.com/ZSeven-W/dsh-ios",
+        "stars": 179,
+        "score": 4,
+        "reason": "在对话中操控iOS模拟器，提供22个代理工具，对移动开发有实际帮助"
+      },
+      {
+        "id": 1341029172,
+        "full_name": "OpenLabs-so/oa-design",
+        "html_url": "https://github.com/OpenLabs-so/oa-design",
+        "stars": 109,
+        "score": 4,
+        "reason": "设计系统组件配方与CLI，可集成到多种AI代理，实用性强"
+      },
+      {
+        "id": 1341340606,
+        "full_name": "GamePhanes/GamePhanes",
+        "html_url": "https://github.com/GamePhanes/GamePhanes",
+        "stars": 92,
+        "score": 4,
+        "reason": "开源的Godot游戏编码代理环境与基准，对游戏AI开发有价值"
+      },
+      {
+        "id": 1339368171,
+        "full_name": "jinzijian/EvoTrace",
+        "html_url": "https://github.com/jinzijian/EvoTrace",
+        "stars": 90,
+        "score": 4,
+        "reason": "将真实编码轨迹编译为训练资产，对Agent训练有实际用途"
+      }
+    ]
   }
 ]
