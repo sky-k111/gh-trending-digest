@@ -1832,5 +1832,52 @@
         "reason": "将真实编码轨迹编译为训练资产，对Agent训练有实际用途"
       }
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1341264609,
+        "full_name": "ChenShuo2004/cs-board",
+        "html_url": "https://github.com/ChenShuo2004/cs-board",
+        "stars": 125,
+        "score": 4,
+        "reason": "本地白板动画视频生成工具，功能完整且有实际应用场景"
+      },
+      {
+        "id": 1340492162,
+        "full_name": "Jordanwei1/jiaojie-skill",
+        "html_url": "https://github.com/Jordanwei1/jiaojie-skill",
+        "stars": 103,
+        "score": 4,
+        "reason": "AI上下文跨窗口交接工具，解决实际痛点，设计思路清晰"
+      },
+      {
+        "id": 1342703663,
+        "full_name": "zhaoxuya520/MeshLAN",
+        "html_url": "https://github.com/zhaoxuya520/MeshLAN",
+        "stars": 92,
+        "score": 4,
+        "reason": "基于Nebula的P2P虚拟局域网，技术扎实且有自托管价值"
+      },
+      {
+        "id": 1340896547,
+        "full_name": "abligail/narralume",
+        "html_url": "https://github.com/abligail/narralume",
+        "stars": 86,
+        "score": 4,
+        "reason": "开源AI辅助长篇小说写作工具，功能完整且面向特定创作场景"
+      },
+      {
+        "id": 1341805689,
+        "full_name": "ZSeven-W/dsh-android",
+        "html_url": "https://github.com/ZSeven-W/dsh-android",
+        "stars": 84,
+        "score": 4,
+        "reason": "DeepSeek Android设备控制插件，通过adb实现实机交互，开发调试实用"
+      }
+    ]
   }
 ]
