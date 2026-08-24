@@ -1879,5 +1879,68 @@
         "reason": "DeepSeek Android设备控制插件，通过adb实现实机交互，开发调试实用"
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1342886503,
+        "full_name": "duty1g/x64dbg-mcp-server",
+        "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "stars": 921,
+        "score": 5,
+        "reason": "将x64dbg调试器完整接入MCP生态，为AI辅助逆向分析提供了标准化桥梁，实用价值高。"
+      },
+      {
+        "id": 1343146307,
+        "full_name": "localai-org/kimodo.cpp",
+        "html_url": "https://github.com/localai-org/kimodo.cpp",
+        "stars": 295,
+        "score": 4,
+        "reason": "将NVIDIA Kimodo模型移植到C++/GGML，为本地推理提供了轻量级选择。"
+      },
+      {
+        "id": 1342943152,
+        "full_name": "kgoedecke/doop",
+        "html_url": "https://github.com/kgoedecke/doop",
+        "stars": 170,
+        "score": 4,
+        "reason": "开源多人设计画布，集成MCP，为AI协作设计提供了新方案。"
+      },
+      {
+        "id": 1343020980,
+        "full_name": "josiah-nelson/eidos",
+        "html_url": "https://github.com/josiah-nelson/eidos",
+        "stars": 164,
+        "score": 4,
+        "reason": "Windows平台文件系统索引与搜索工具，技术栈扎实，实用性强。"
+      },
+      {
+        "id": 1342595754,
+        "full_name": "luke321/vault-graph",
+        "html_url": "https://github.com/luke321/vault-graph",
+        "stars": 96,
+        "score": 4,
+        "reason": "将Obsidian库生成交互式图谱的离线HTML，简单实用且便于分享。"
+      },
+      {
+        "id": 1341873752,
+        "full_name": "khydrogenous/lightspeed",
+        "html_url": "https://github.com/khydrogenous/lightspeed",
+        "stars": 90,
+        "score": 4,
+        "reason": "跨平台P2P加密社交应用，技术实现完整，隐私保护设计出色。"
+      },
+      {
+        "id": 1342877083,
+        "full_name": "HanyuanWang/LiveStream-Agent-Studio",
+        "html_url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+        "stars": 81,
+        "score": 4,
+        "reason": "面向抖音直播电商的本地AI工作流，功能全面且针对性强。"
+      }
+    ]
   }
 ]
