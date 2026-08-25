@@ -1942,5 +1942,52 @@
         "reason": "面向抖音直播电商的本地AI工作流，功能全面且针对性强。"
       }
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1344223757,
+        "full_name": "ShadowAqueduct/watermark-remover",
+        "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
+        "stars": 773,
+        "score": 4,
+        "reason": "多格式AI水印清除工具，功能明确且覆盖面广"
+      },
+      {
+        "id": 1343847417,
+        "full_name": "TarunTomar122/better-voice",
+        "html_url": "https://github.com/TarunTomar122/better-voice",
+        "stars": 189,
+        "score": 4,
+        "reason": "带屏幕上下文的语音听写工具，创新且实用"
+      },
+      {
+        "id": 1342461518,
+        "full_name": "ApodexAI/FrontierAgent",
+        "html_url": "https://github.com/ApodexAI/FrontierAgent",
+        "stars": 174,
+        "score": 4,
+        "reason": "开源代理框架，支持TUI和多种模式，部署简单"
+      },
+      {
+        "id": 1343411249,
+        "full_name": "alchaincyf/huashu-excel",
+        "html_url": "https://github.com/alchaincyf/huashu-excel",
+        "stars": 161,
+        "score": 4,
+        "reason": "数据分析与Excel处理技能，依赖少且流程完整"
+      },
+      {
+        "id": 1344239263,
+        "full_name": "truespar/sentio",
+        "html_url": "https://github.com/truespar/sentio",
+        "stars": 160,
+        "score": 4,
+        "reason": "为AI代理提供邮箱API的Rust服务器，架构完整"
+      }
+    ]
   }
 ]
