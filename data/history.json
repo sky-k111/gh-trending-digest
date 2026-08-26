@@ -1989,5 +1989,68 @@
         "reason": "为AI代理提供邮箱API的Rust服务器，架构完整"
       }
     ]
+  },
+  {
+    "date": "2026-08-26",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1344273611,
+        "full_name": "tobi/walgit",
+        "html_url": "https://github.com/tobi/walgit",
+        "stars": 1575,
+        "score": 4,
+        "reason": "Rust实现的Git工具，值得关注但描述缺失"
+      },
+      {
+        "id": 1344425591,
+        "full_name": "bryllim/workout-guide",
+        "html_url": "https://github.com/bryllim/workout-guide",
+        "stars": 542,
+        "score": 4,
+        "reason": "开源健身动作库，含npm包，对健身应用开发者有价值"
+      },
+      {
+        "id": 1345177309,
+        "full_name": "yding-git/personal-edge-proxy",
+        "html_url": "https://github.com/yding-git/personal-edge-proxy",
+        "stars": 165,
+        "score": 4,
+        "reason": "实用的个人代理配置方案，含多种协议集成"
+      },
+      {
+        "id": 1344968581,
+        "full_name": "yizhiyanhua-ai/fireworks-open-eli5",
+        "html_url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+        "stars": 133,
+        "score": 4,
+        "reason": "为Codex和Claude Code提供可视化解释器，有实用价值"
+      },
+      {
+        "id": 1345527478,
+        "full_name": "dragthelake/ambient-context",
+        "html_url": "https://github.com/dragthelake/ambient-context",
+        "stars": 114,
+        "score": 4,
+        "reason": "菜单栏工作记录工具，对时间追踪有实际帮助"
+      },
+      {
+        "id": 1345652566,
+        "full_name": "oboroge0/hayamimi",
+        "html_url": "https://github.com/oboroge0/hayamimi",
+        "stars": 114,
+        "score": 4,
+        "reason": "CPU实时多语言语音转文字，技术上有价值"
+      },
+      {
+        "id": 1343884573,
+        "full_name": "AlpinDale/gpt2.cmake",
+        "html_url": "https://github.com/AlpinDale/gpt2.cmake",
+        "stars": 98,
+        "score": 4,
+        "reason": "纯CMake实现GPT-2，有教学和实验价值"
+      }
+    ]
   }
 ]
