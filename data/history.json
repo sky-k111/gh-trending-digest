@@ -2052,5 +2052,68 @@
         "reason": "纯CMake实现GPT-2，有教学和实验价值"
       }
     ]
+  },
+  {
+    "date": "2026-08-27",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1346970181,
+        "full_name": "wide-trace/open-higgsfield",
+        "html_url": "https://github.com/wide-trace/open-higgsfield",
+        "stars": 664,
+        "score": 4,
+        "reason": "多模型图像视频生成统一工作台，界面与工作流设计实用"
+      },
+      {
+        "id": 1345606017,
+        "full_name": "Tencent/WeMM-Embedding",
+        "html_url": "https://github.com/Tencent/WeMM-Embedding",
+        "stars": 372,
+        "score": 4,
+        "reason": "腾讯官方多模态嵌入模型，支持检索与理解，有实际应用价值"
+      },
+      {
+        "id": 1344908058,
+        "full_name": "zhuyifang/tonghuasun-agent",
+        "html_url": "https://github.com/zhuyifang/tonghuasun-agent",
+        "stars": 110,
+        "score": 4,
+        "reason": "连接同花顺数据的Agent工具，对量化开发者实用"
+      },
+      {
+        "id": 1345267734,
+        "full_name": "ADScanPro/Claude-AD",
+        "html_url": "https://github.com/ADScanPro/Claude-AD",
+        "stars": 109,
+        "score": 4,
+        "reason": "AD渗透测试方法论集成到Claude Code，红队工作实用"
+      },
+      {
+        "id": 1344386448,
+        "full_name": "jackpoison-prog/RingOut",
+        "html_url": "https://github.com/jackpoison-prog/RingOut",
+        "stars": 105,
+        "score": 4,
+        "reason": "GameCube游戏静态重编译移植，技术含量高且可玩"
+      },
+      {
+        "id": 1347856248,
+        "full_name": "s0xDk/refactoring-ui-skill",
+        "html_url": "https://github.com/s0xDk/refactoring-ui-skill",
+        "stars": 104,
+        "score": 4,
+        "reason": "将Refactoring UI设计规则转化为Claude技能，前端开发实用"
+      },
+      {
+        "id": 1345013588,
+        "full_name": "ericlitman/open-pstack",
+        "html_url": "https://github.com/ericlitman/open-pstack",
+        "stars": 99,
+        "score": 4,
+        "reason": "为Claude Code和Codex提供pstack堆栈跟踪，调试实用"
+      }
+    ]
   }
 ]
