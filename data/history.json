@@ -2115,5 +2115,84 @@
         "reason": "为Claude Code和Codex提供pstack堆栈跟踪，调试实用"
       }
     ]
+  },
+  {
+    "date": "2026-08-28",
+    "type": "daily",
+    "count": 9,
+    "repos": [
+      {
+        "id": 1348577064,
+        "full_name": "sapientinc/PRAXIST",
+        "html_url": "https://github.com/sapientinc/PRAXIST",
+        "stars": 1178,
+        "score": 4,
+        "reason": "自主研究系统，有明确应用场景，但需评估实际效果"
+      },
+      {
+        "id": 1347890919,
+        "full_name": "leopard627/fire-your-seo-agency",
+        "html_url": "https://github.com/leopard627/fire-your-seo-agency",
+        "stars": 286,
+        "score": 4,
+        "reason": "SEO优化Claude技能，针对性强，有实际应用价值"
+      },
+      {
+        "id": 1348483831,
+        "full_name": "crmne/fastpotify",
+        "html_url": "https://github.com/crmne/fastpotify",
+        "stars": 261,
+        "score": 4,
+        "reason": "跨平台原生Spotify客户端，Rust实现，性能优秀"
+      },
+      {
+        "id": 1348572094,
+        "full_name": "damejan80/tokentab",
+        "html_url": "https://github.com/damejan80/tokentab",
+        "stars": 212,
+        "score": 4,
+        "reason": "AI会话成本分析CLI，实用且针对性强"
+      },
+      {
+        "id": 1347659559,
+        "full_name": "saurabhkumar8112/cyclomatic-complexity-skill",
+        "html_url": "https://github.com/saurabhkumar8112/cyclomatic-complexity-skill",
+        "stars": 158,
+        "score": 4,
+        "reason": "降低圈复杂度的Claude技能，对代码质量提升有直接帮助"
+      },
+      {
+        "id": 1348460133,
+        "full_name": "rhevorn/confetti",
+        "html_url": "https://github.com/rhevorn/confetti",
+        "stars": 153,
+        "score": 4,
+        "reason": "多格式配置文件格式化扩展，轻量实用无遥测"
+      },
+      {
+        "id": 1347113909,
+        "full_name": "GENEXIS-AI/gpt-image-skill",
+        "html_url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+        "stars": 139,
+        "score": 4,
+        "reason": "利用ChatGPT订阅生成图片，节省API成本，实用性强"
+      },
+      {
+        "id": 1345846859,
+        "full_name": "HRuiCcc/music-geshizhuanhuan",
+        "html_url": "https://github.com/HRuiCcc/music-geshizhuanhuan",
+        "stars": 135,
+        "score": 4,
+        "reason": "全平台音乐格式解密转换，功能明确且自研实现"
+      },
+      {
+        "id": 1346917581,
+        "full_name": "S1N6H/pentest-harness",
+        "html_url": "https://github.com/S1N6H/pentest-harness",
+        "stars": 124,
+        "score": 4,
+        "reason": "自托管渗透测试AI代理，安全领域实用工具，本地化保存会话"
+      }
+    ]
   }
 ]
