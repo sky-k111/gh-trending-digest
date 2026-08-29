@@ -2194,5 +2194,52 @@
         "reason": "自托管渗透测试AI代理，安全领域实用工具，本地化保存会话"
       }
     ]
+  },
+  {
+    "date": "2026-08-29",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1349601607,
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "stars": 539,
+        "score": 4,
+        "reason": "结合ChatGPT与Codex的AI代理方案，有明确应用场景"
+      },
+      {
+        "id": 1348995029,
+        "full_name": "jprx/darwin-vm",
+        "html_url": "https://github.com/jprx/darwin-vm",
+        "stars": 363,
+        "score": 4,
+        "reason": "在QEMU中运行iOS/macOS，对开发测试有实际价值"
+      },
+      {
+        "id": 1349765459,
+        "full_name": "chrisgreg/boop",
+        "html_url": "https://github.com/chrisgreg/boop",
+        "stars": 237,
+        "score": 4,
+        "reason": "轻量自托管通知收件箱，适合开发者监控应用事件"
+      },
+      {
+        "id": 1348969891,
+        "full_name": "nateherkai/snagtime",
+        "html_url": "https://github.com/nateherkai/snagtime",
+        "stars": 196,
+        "score": 4,
+        "reason": "自托管调度应用，功能完整且集成多种服务"
+      },
+      {
+        "id": 1348793218,
+        "full_name": "hkqr/my-free-code",
+        "html_url": "https://github.com/hkqr/my-free-code",
+        "stars": 158,
+        "score": 4,
+        "reason": "多提供商AI网关，支持路由与回退，实用性强"
+      }
+    ]
   }
 ]
