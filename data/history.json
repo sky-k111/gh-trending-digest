@@ -2241,5 +2241,36 @@
         "reason": "多提供商AI网关，支持路由与回退，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-08-30",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1348428036,
+        "full_name": "mouredev/hello-sdd",
+        "html_url": "https://github.com/mouredev/hello-sdd",
+        "stars": 322,
+        "score": 4,
+        "reason": "SDD开发方法课程，内容系统但偏教学而非工具"
+      },
+      {
+        "id": 1348253680,
+        "full_name": "amap-cvlab/ABot-Recon",
+        "html_url": "https://github.com/amap-cvlab/ABot-Recon",
+        "stars": 158,
+        "score": 4,
+        "reason": "视频流式3D重建算法，技术先进但需专业环境"
+      },
+      {
+        "id": 1348178527,
+        "full_name": "JordyZomer/lemmalog",
+        "html_url": "https://github.com/JordyZomer/lemmalog",
+        "stars": 156,
+        "score": 4,
+        "reason": "LLM代理记忆Datalog引擎，创新且实用"
+      }
+    ]
   }
 ]
