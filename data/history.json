@@ -2272,5 +2272,44 @@
         "reason": "LLM代理记忆Datalog引擎，创新且实用"
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1350914890,
+        "full_name": "useagenthq/useagent",
+        "html_url": "https://github.com/useagenthq/useagent",
+        "stars": 129,
+        "score": 4,
+        "reason": "开源AI协作者，有实际应用价值"
+      },
+      {
+        "id": 1351104281,
+        "full_name": "daffainfo/vol-rs",
+        "html_url": "https://github.com/daffainfo/vol-rs",
+        "stars": 108,
+        "score": 4,
+        "reason": "Volatility 3的Rust移植，性能提升有实际价值"
+      },
+      {
+        "id": 1349665307,
+        "full_name": "usedotai/dot-reflex",
+        "html_url": "https://github.com/usedotai/dot-reflex",
+        "stars": 80,
+        "score": 4,
+        "reason": "AI代理恢复控制器，有实际应用价值"
+      },
+      {
+        "id": 1349556755,
+        "full_name": "Inch-high/unifi-support-file-analyzer",
+        "html_url": "https://github.com/Inch-high/unifi-support-file-analyzer",
+        "stars": 79,
+        "score": 4,
+        "reason": "UniFi支持文件分析器，网络管理员实用工具"
+      }
+    ]
   }
 ]
