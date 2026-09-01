@@ -2311,5 +2311,76 @@
         "reason": "UniFi支持文件分析器，网络管理员实用工具"
       }
     ]
+  },
+  {
+    "date": "2026-09-01",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1351903372,
+        "full_name": "siknet/FreePEP",
+        "html_url": "https://github.com/siknet/FreePEP",
+        "stars": 235,
+        "score": 4,
+        "reason": "针对特定教材的下载工具，对国内用户有实际价值，但受众有限。"
+      },
+      {
+        "id": 1350970233,
+        "full_name": "Vuk97/forward-implementation-first",
+        "html_url": "https://github.com/Vuk97/forward-implementation-first",
+        "stars": 158,
+        "score": 4,
+        "reason": "为AI编码代理提供实用技能，提升开发效率，有明确价值。"
+      },
+      {
+        "id": 1350915416,
+        "full_name": "aimen08/noty",
+        "html_url": "https://github.com/aimen08/noty",
+        "stars": 156,
+        "score": 4,
+        "reason": "macOS原生便签应用，本地加密，简洁实用，但平台受限。"
+      },
+      {
+        "id": 1351889117,
+        "full_name": "mizorewww/course2md",
+        "html_url": "https://github.com/mizorewww/course2md",
+        "stars": 128,
+        "score": 4,
+        "reason": "将视频课程转为Markdown笔记，对学习者有实用价值，Rust实现性能好。"
+      },
+      {
+        "id": 1351120501,
+        "full_name": "profullstack/hqtui",
+        "html_url": "https://github.com/profullstack/hqtui",
+        "stars": 111,
+        "score": 4,
+        "reason": "TypeScript终端UI库，零依赖，API简洁，适合构建仪表盘。"
+      },
+      {
+        "id": 1350187482,
+        "full_name": "pictaria-ai/pictaria-server",
+        "html_url": "https://github.com/pictaria-ai/pictaria-server",
+        "stars": 95,
+        "score": 4,
+        "reason": "自托管数字相框服务器，集成Immich，对摄影爱好者实用。"
+      },
+      {
+        "id": 1350820880,
+        "full_name": "charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
+        "html_url": "https://github.com/charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
+        "stars": 83,
+        "score": 4,
+        "reason": "Windows游戏优化工具，利用CPU Sets API，实用且无侵入。"
+      },
+      {
+        "id": 1350830809,
+        "full_name": "OthmaneBlial/MobaRust",
+        "html_url": "https://github.com/OthmaneBlial/MobaRust",
+        "stars": 79,
+        "score": 4,
+        "reason": "开源MobaXterm替代品，功能全面，Rust实现，有发展潜力。"
+      }
+    ]
   }
 ]
