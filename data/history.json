@@ -2382,5 +2382,44 @@
         "reason": "开源MobaXterm替代品，功能全面，Rust实现，有发展潜力。"
       }
     ]
+  },
+  {
+    "date": "2026-09-02",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1352223257,
+        "full_name": "yilujian/easy-writing",
+        "html_url": "https://github.com/yilujian/easy-writing",
+        "stars": 131,
+        "score": 4,
+        "reason": "本地AI写作桌面应用，功能完整且支持自定义模型"
+      },
+      {
+        "id": 1353468885,
+        "full_name": "mahdidavoodi7/react-native-continued-task",
+        "html_url": "https://github.com/mahdidavoodi7/react-native-continued-task",
+        "stars": 129,
+        "score": 4,
+        "reason": "React Native后台任务库，封装系统API且跨平台支持"
+      },
+      {
+        "id": 1353517202,
+        "full_name": "joeseesun/qiaomu-book-reader",
+        "html_url": "https://github.com/joeseesun/qiaomu-book-reader",
+        "stars": 84,
+        "score": 4,
+        "reason": "Obsidian中文电子书阅读器，功能实用且针对性强"
+      },
+      {
+        "id": 1352097096,
+        "full_name": "productdevbook/cizgile",
+        "html_url": "https://github.com/productdevbook/cizgile",
+        "stars": 80,
+        "score": 4,
+        "reason": "零依赖URL slug引擎，实现规范且支持多语言转写"
+      }
+    ]
   }
 ]
