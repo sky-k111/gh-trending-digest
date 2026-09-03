@@ -2421,5 +2421,52 @@
         "reason": "零依赖URL slug引擎，实现规范且支持多语言转写"
       }
     ]
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1352104394,
+        "full_name": "shadcn-ui/cn",
+        "html_url": "https://github.com/shadcn-ui/cn",
+        "stars": 653,
+        "score": 5,
+        "reason": "shadcn官方出品，替代tailwind-merge和clsx，性能提升30倍，前端必备"
+      },
+      {
+        "id": 1353548665,
+        "full_name": "anthropics/commerce-agents",
+        "html_url": "https://github.com/anthropics/commerce-agents",
+        "stars": 660,
+        "score": 4,
+        "reason": "Anthropic官方电商Agent参考实现，有实际业务场景价值"
+      },
+      {
+        "id": 1351859098,
+        "full_name": "2akouwu/reverify",
+        "html_url": "https://github.com/2akouwu/reverify",
+        "stars": 599,
+        "score": 4,
+        "reason": "AI逆向工程验证框架，将结果与二进制比对防幻觉，思路新颖实用"
+      },
+      {
+        "id": 1352314144,
+        "full_name": "richiemcilroy/chippytea",
+        "html_url": "https://github.com/richiemcilroy/chippytea",
+        "stars": 190,
+        "score": 4,
+        "reason": "macOS菜单栏磁盘清理工具，SwiftUI+Rust，设计精美实用"
+      },
+      {
+        "id": 1353026092,
+        "full_name": "lihaoyun6/ComfyUI-H3VAE_TRT",
+        "html_url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+        "stars": 159,
+        "score": 4,
+        "reason": "ComfyUI的H3VAE加速插件，提升1.7倍速度，对AI绘画用户有价值"
+      }
+    ]
   }
 ]
