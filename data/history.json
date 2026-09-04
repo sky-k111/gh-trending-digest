@@ -2468,5 +2468,76 @@
         "reason": "ComfyUI的H3VAE加速插件，提升1.7倍速度，对AI绘画用户有价值"
       }
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1354310030,
+        "full_name": "lnkiai/m3e-canvas",
+        "html_url": "https://github.com/lnkiai/m3e-canvas",
+        "stars": 628,
+        "score": 4,
+        "reason": "将Material 3设计稿直接转化为编码提示，提升设计到开发的衔接效率"
+      },
+      {
+        "id": 1354415236,
+        "full_name": "dreamers-laboratory/image-to-3d-pipeline",
+        "html_url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+        "stars": 246,
+        "score": 4,
+        "reason": "集成多种开源模型进行图像转3D并对比效果，实用且便于选型"
+      },
+      {
+        "id": 1355017800,
+        "full_name": "nahrek/polyledger",
+        "html_url": "https://github.com/nahrek/polyledger",
+        "stars": 236,
+        "score": 4,
+        "reason": "将Polymarket数据索引到DuckDB，便于SQL分析，对数据研究者有价值"
+      },
+      {
+        "id": 1354236772,
+        "full_name": "thisisgm/flea",
+        "html_url": "https://github.com/thisisgm/flea",
+        "stars": 209,
+        "score": 4,
+        "reason": "键盘优先的文件管理器，Rust后端性能好，适合特定Linux用户"
+      },
+      {
+        "id": 1355833393,
+        "full_name": "ahujasid/camera-to-blender",
+        "html_url": "https://github.com/ahujasid/camera-to-blender",
+        "stars": 171,
+        "score": 4,
+        "reason": "将真实物体照片导入Blender，简化3D建模流程，实用性强"
+      },
+      {
+        "id": 1354414949,
+        "full_name": "dreamers-laboratory/agent-fleet-manager",
+        "html_url": "https://github.com/dreamers-laboratory/agent-fleet-manager",
+        "stars": 171,
+        "score": 4,
+        "reason": "通用型大规模信息收集引擎，架构清晰，适合自动化任务"
+      },
+      {
+        "id": 1354415396,
+        "full_name": "dreamers-laboratory/timeseries-atlas",
+        "html_url": "https://github.com/dreamers-laboratory/timeseries-atlas",
+        "stars": 143,
+        "score": 4,
+        "reason": "时间序列预测架构地图，含可运行代码，便于学习和选型"
+      },
+      {
+        "id": 1354945198,
+        "full_name": "what1f/kitter",
+        "html_url": "https://github.com/what1f/kitter",
+        "stars": 140,
+        "score": 4,
+        "reason": "本地优先的Skill管理器，Rust实现，解决AI技能管理痛点"
+      }
+    ]
   }
 ]
