@@ -2539,5 +2539,52 @@
         "reason": "本地优先的Skill管理器，Rust实现，解决AI技能管理痛点"
       }
     ]
+  },
+  {
+    "date": "2026-09-05",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1354705170,
+        "full_name": "op7418/guizang-yingzao-skill",
+        "html_url": "https://github.com/op7418/guizang-yingzao-skill",
+        "stars": 326,
+        "score": 4,
+        "reason": "实用的AI技能包，将中国建筑照片转为海报，创意与实用性兼备"
+      },
+      {
+        "id": 1354702877,
+        "full_name": "gozen3ji/consulting-pptx-skill",
+        "html_url": "https://github.com/gozen3ji/consulting-pptx-skill",
+        "stars": 224,
+        "score": 4,
+        "reason": "专业的PPTX生成技能，含详细规范与检查，对咨询场景实用"
+      },
+      {
+        "id": 1356579487,
+        "full_name": "KJGX66F/usque-custom-pro",
+        "html_url": "https://github.com/KJGX66F/usque-custom-pro",
+        "stars": 212,
+        "score": 4,
+        "reason": "实用的WARP配置生成与多客户端转换工具，功能完整"
+      },
+      {
+        "id": 1355387785,
+        "full_name": "R44VC0RP/superlocal",
+        "html_url": "https://github.com/R44VC0RP/superlocal",
+        "stars": 170,
+        "score": 4,
+        "reason": "本地优先的邮件客户端网关，理念新颖且有开发潜力"
+      },
+      {
+        "id": 1354807227,
+        "full_name": "localai-org/motion-bricks.cpp",
+        "html_url": "https://github.com/localai-org/motion-bricks.cpp",
+        "stars": 127,
+        "score": 4,
+        "reason": "将NVIDIA MotionBricks移植到GGML/C++，可动态生成动画，对游戏和机器人开发有价值"
+      }
+    ]
   }
 ]
