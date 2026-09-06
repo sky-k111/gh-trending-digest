@@ -2586,5 +2586,76 @@
         "reason": "将NVIDIA MotionBricks移植到GGML/C++，可动态生成动画，对游戏和机器人开发有价值"
       }
     ]
+  },
+  {
+    "date": "2026-09-06",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1357699236,
+        "full_name": "ashemag/human-atlas",
+        "html_url": "https://github.com/ashemag/human-atlas",
+        "stars": 560,
+        "score": 4,
+        "reason": "开源3D解剖浏览器，数据丰富且交互良好，适合医学教育"
+      },
+      {
+        "id": 1357272370,
+        "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
+        "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+        "stars": 485,
+        "score": 4,
+        "reason": "本地优先的微信智能分析系统，功能完整且实用"
+      },
+      {
+        "id": 1358295353,
+        "full_name": "vinzdg/codenotch",
+        "html_url": "https://github.com/vinzdg/codenotch",
+        "stars": 331,
+        "score": 4,
+        "reason": "macOS端AI工具用量限制应用，解决实际痛点"
+      },
+      {
+        "id": 1358140812,
+        "full_name": "pierrenade/short-video-generator-AI",
+        "html_url": "https://github.com/pierrenade/short-video-generator-AI",
+        "stars": 326,
+        "score": 4,
+        "reason": "视频转短视频自动化工具，功能全面且开源"
+      },
+      {
+        "id": 1357580136,
+        "full_name": "burakgon/stop-stutter",
+        "html_url": "https://github.com/burakgon/stop-stutter",
+        "stars": 281,
+        "score": 4,
+        "reason": "macOS游戏串流优化工具，针对性强且原生实现"
+      },
+      {
+        "id": 1356777601,
+        "full_name": "bjarneo/omarchy-workspace-layout",
+        "html_url": "https://github.com/bjarneo/omarchy-workspace-layout",
+        "stars": 144,
+        "score": 4,
+        "reason": "Hyprland工作区布局管理，功能创新且实用"
+      },
+      {
+        "id": 1358571386,
+        "full_name": "okf-memory/okf-agent-memory",
+        "html_url": "https://github.com/okf-memory/okf-agent-memory",
+        "stars": 124,
+        "score": 4,
+        "reason": "Git原生AI代理记忆系统，性能指标优秀且实用"
+      },
+      {
+        "id": 1356226765,
+        "full_name": "edoardolunardi/kugiri",
+        "html_url": "https://github.com/edoardolunardi/kugiri",
+        "stars": 114,
+        "score": 4,
+        "reason": "精确文本分割库，解决浏览器断行问题，前端开发者有用"
+      }
+    ]
   }
 ]
