@@ -2657,5 +2657,60 @@
         "reason": "精确文本分割库，解决浏览器断行问题，前端开发者有用"
       }
     ]
+  },
+  {
+    "date": "2026-09-07",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1357414008,
+        "full_name": "byJoey/warp-masque-actions",
+        "html_url": "https://github.com/byJoey/warp-masque-actions",
+        "stars": 378,
+        "score": 4,
+        "reason": "实用的WARP密钥生成与配置自动化工具"
+      },
+      {
+        "id": 1358633852,
+        "full_name": "Jarvis322/macos-sysdata",
+        "html_url": "https://github.com/Jarvis322/macos-sysdata",
+        "stars": 302,
+        "score": 4,
+        "reason": "macOS系统数据清理工具，菜单栏操作直观"
+      },
+      {
+        "id": 1358168557,
+        "full_name": "evangelosvlachos96-dotcom/booking-microservices",
+        "html_url": "https://github.com/evangelosvlachos96-dotcom/booking-microservices",
+        "stars": 240,
+        "score": 4,
+        "reason": "完整的.NET微服务架构示例，有学习参考价值"
+      },
+      {
+        "id": 1357791006,
+        "full_name": "hsandhu/mobilecode",
+        "html_url": "https://github.com/hsandhu/mobilecode",
+        "stars": 120,
+        "score": 4,
+        "reason": "opencode分支，支持移动端构建预览，有实用价值"
+      },
+      {
+        "id": 1359221896,
+        "full_name": "alchaincyf/huashu-mac-use",
+        "html_url": "https://github.com/alchaincyf/huashu-mac-use",
+        "stars": 114,
+        "score": 4,
+        "reason": "让AI操控Mac原生应用，有创新性和实用性"
+      },
+      {
+        "id": 1357379644,
+        "full_name": "kitlangton/rolling-number",
+        "html_url": "https://github.com/kitlangton/rolling-number",
+        "stars": 108,
+        "score": 4,
+        "reason": "轻量级滚动数字动画库，React适配，实用"
+      }
+    ]
   }
 ]
