@@ -2712,5 +2712,52 @@
         "reason": "轻量级滚动数字动画库，React适配，实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-08",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1359610661,
+        "full_name": "EverettFish/holo-card-studio",
+        "html_url": "https://github.com/EverettFish/holo-card-studio",
+        "stars": 936,
+        "score": 4,
+        "reason": "将描述转化为可编辑的Blender卡片和交互式Three.js页面，创意实用，但依赖特定AI环境"
+      },
+      {
+        "id": 1359247858,
+        "full_name": "biusberline/cloudflare-turnstile-solver",
+        "html_url": "https://github.com/biusberline/cloudflare-turnstile-solver",
+        "stars": 259,
+        "score": 4,
+        "reason": "针对Cloudflare Turnstile的Python库，自动化测试场景实用"
+      },
+      {
+        "id": 1357905477,
+        "full_name": "sdcb/SimdPaddleOCR",
+        "html_url": "https://github.com/sdcb/SimdPaddleOCR",
+        "stars": 153,
+        "score": 4,
+        "reason": "纯C# OCR推理库，SIMD优化，适合.NET生态集成"
+      },
+      {
+        "id": 1358848972,
+        "full_name": "OpenWAM-Official/OpenWAM",
+        "html_url": "https://github.com/OpenWAM-Official/OpenWAM",
+        "stars": 123,
+        "score": 4,
+        "reason": "开源世界-动作模型预训练框架，机器人领域研究价值高"
+      },
+      {
+        "id": 1359630749,
+        "full_name": "VII-Cae/hyalite--liquid-glass",
+        "html_url": "https://github.com/VII-Cae/hyalite--liquid-glass",
+        "stars": 118,
+        "score": 4,
+        "reason": "单文件实现液态玻璃折射效果，无需WebGL，前端特效实用"
+      }
+    ]
   }
 ]
