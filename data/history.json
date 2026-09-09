@@ -2759,5 +2759,20 @@
         "reason": "单文件实现液态玻璃折射效果，无需WebGL，前端特效实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-09",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1360002825,
+        "full_name": "noskillish/bankmcp",
+        "html_url": "https://github.com/noskillish/bankmcp",
+        "stars": 165,
+        "score": 4,
+        "reason": "自托管银行账户MCP服务器，标准协议，对金融类AI应用有价值"
+      }
+    ]
   }
 ]
