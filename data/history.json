@@ -2774,5 +2774,28 @@
         "reason": "自托管银行账户MCP服务器，标准协议，对金融类AI应用有价值"
       }
     ]
+  },
+  {
+    "date": "2026-09-10",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1361242474,
+        "full_name": "jnz/INSLIB",
+        "html_url": "https://github.com/jnz/INSLIB",
+        "stars": 202,
+        "score": 4,
+        "reason": "开源惯性导航库，C语言实现，嵌入式领域实用"
+      },
+      {
+        "id": 1360602296,
+        "full_name": "hanyang9/UMR",
+        "html_url": "https://github.com/hanyang9/UMR",
+        "stars": 150,
+        "score": 4,
+        "reason": "统一动作重定向官方代码库，机器人/动画领域实用"
+      }
+    ]
   }
 ]
