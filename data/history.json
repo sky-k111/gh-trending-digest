@@ -2797,5 +2797,68 @@
         "reason": "统一动作重定向官方代码库，机器人/动画领域实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-11",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1361260630,
+        "full_name": "openai/NavierStokesAndEuler",
+        "html_url": "https://github.com/openai/NavierStokesAndEuler",
+        "stars": 1731,
+        "score": 4,
+        "reason": "OpenAI 出品的 Lean 形式化数学证明，对形式化验证研究者有参考价值"
+      },
+      {
+        "id": 1361693766,
+        "full_name": "Vincentwei1021/anything2explainer",
+        "html_url": "https://github.com/Vincentwei1021/anything2explainer",
+        "stars": 772,
+        "score": 4,
+        "reason": "将主题转为解说视频的 Claude Code 技能，内容创作者实用"
+      },
+      {
+        "id": 1362509712,
+        "full_name": "mizzlelover/gongwen-gbt9704-skill",
+        "html_url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+        "stars": 379,
+        "score": 4,
+        "reason": "符合 GB/T 9704 的中文公文排版 Skill，特定场景很实用"
+      },
+      {
+        "id": 1363423951,
+        "full_name": "kevinzakka/mjbatch",
+        "html_url": "https://github.com/kevinzakka/mjbatch",
+        "stars": 254,
+        "score": 4,
+        "reason": "并行运行大量 MuJoCo 仿真的 Python 库，强化学习研究者实用"
+      },
+      {
+        "id": 1362805626,
+        "full_name": "deepseek-ai/DeepSelect",
+        "html_url": "https://github.com/deepseek-ai/DeepSelect",
+        "stars": 252,
+        "score": 4,
+        "reason": "DeepSeek 稀疏注意力 TopK CUDA 内核，底层优化有参考价值"
+      },
+      {
+        "id": 1360898986,
+        "full_name": "deepseek-ai/DeepJIT",
+        "html_url": "https://github.com/deepseek-ai/DeepJIT",
+        "stars": 233,
+        "score": 4,
+        "reason": "xPU 内核 JIT 编译轻量库，底层开发实用"
+      },
+      {
+        "id": 1360896604,
+        "full_name": "VaderChen/YourDesk",
+        "html_url": "https://github.com/VaderChen/YourDesk",
+        "stars": 164,
+        "score": 4,
+        "reason": "跨平台远程桌面，硬件加速加 MCP 集成，实用性强"
+      }
+    ]
   }
 ]
