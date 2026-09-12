@@ -2860,5 +2860,52 @@
         "reason": "跨平台远程桌面，硬件加速加 MCP 集成，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-09-12",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1363388578,
+        "full_name": "yudaprasetya007/routeVSCODE",
+        "html_url": "https://github.com/yudaprasetya007/routeVSCODE",
+        "stars": 327,
+        "score": 4,
+        "reason": "VSCode Copilot Chat的动态AI模型切换与本地代理，对Copilot用户有实用价值"
+      },
+      {
+        "id": 1363950922,
+        "full_name": "unstablebuild/rune",
+        "html_url": "https://github.com/unstablebuild/rune",
+        "stars": 246,
+        "score": 4,
+        "reason": "面向专业开发者的AI编码代理开发环境，定位清晰有潜力"
+      },
+      {
+        "id": 1363399964,
+        "full_name": "viettranx/3dviz-pro-max",
+        "html_url": "https://github.com/viettranx/3dviz-pro-max",
+        "stars": 178,
+        "score": 4,
+        "reason": "3D可视化Agent skill，含223个配方和可运行示例，内容丰富实用"
+      },
+      {
+        "id": 1362658862,
+        "full_name": "xiaYuTian11/maskit",
+        "html_url": "https://github.com/xiaYuTian11/maskit",
+        "stars": 156,
+        "score": 4,
+        "reason": "本地隐私脱敏网关，支持主流AI编码工具，解决实际隐私痛点"
+      },
+      {
+        "id": 1363172629,
+        "full_name": "furkan-bayrak/lg-tv-blocklist",
+        "html_url": "https://github.com/furkan-bayrak/lg-tv-blocklist",
+        "stars": 132,
+        "score": 4,
+        "reason": "LG webOS电视遥测和广告的DNS屏蔽列表，实用且维护良好"
+      }
+    ]
   }
 ]
