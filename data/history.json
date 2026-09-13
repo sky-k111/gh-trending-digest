@@ -2907,5 +2907,20 @@
         "reason": "LG webOS电视遥测和广告的DNS屏蔽列表，实用且维护良好"
       }
     ]
+  },
+  {
+    "date": "2026-09-13",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1366546611,
+        "full_name": "kruzovic7/ai-data-extractor",
+        "html_url": "https://github.com/kruzovic7/ai-data-extractor",
+        "stars": 198,
+        "score": 4,
+        "reason": "提取AI编程助手对话历史的实用工具，支持多种主流工具"
+      }
+    ]
   }
 ]
