@@ -2922,5 +2922,28 @@
         "reason": "提取AI编程助手对话历史的实用工具，支持多种主流工具"
       }
     ]
+  },
+  {
+    "date": "2026-09-14",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1367044972,
+        "full_name": "Qiuner/birdview",
+        "html_url": "https://github.com/Qiuner/birdview",
+        "stars": 217,
+        "score": 4,
+        "reason": "AI编码前架构可视化工具，对开发者有实际帮助"
+      },
+      {
+        "id": 1365632242,
+        "full_name": "arikchakma/gpu-time",
+        "html_url": "https://github.com/arikchakma/gpu-time",
+        "stars": 151,
+        "score": 4,
+        "reason": "自然语言日期时间解析小模型，实用"
+      }
+    ]
   }
 ]
