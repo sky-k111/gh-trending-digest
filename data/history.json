@@ -2945,5 +2945,44 @@
         "reason": "自然语言日期时间解析小模型，实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1367577373,
+        "full_name": "agentverse-os/AgentVerse-OS",
+        "html_url": "https://github.com/agentverse-os/AgentVerse-OS",
+        "stars": 350,
+        "score": 4,
+        "reason": "个人云OS整合AI agent与VS Code，有一定实用价值"
+      },
+      {
+        "id": 1369710615,
+        "full_name": "Matthew0822/ToolReplay",
+        "html_url": "https://github.com/Matthew0822/ToolReplay",
+        "stars": 168,
+        "score": 4,
+        "reason": "AI agent工具调用审计CLI，无依赖，实用性强"
+      },
+      {
+        "id": 1368407470,
+        "full_name": "Speedstu/CUDA-for-AMD-Windows",
+        "html_url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+        "stars": 138,
+        "score": 4,
+        "reason": "在AMD GPU上运行CUDA应用的兼容方案，对相关用户有价值"
+      },
+      {
+        "id": 1368510458,
+        "full_name": "Made-In-Basement/ember",
+        "html_url": "https://github.com/Made-In-Basement/ember",
+        "stars": 98,
+        "score": 4,
+        "reason": "从零编写的操作系统，学习与参考价值高"
+      }
+    ]
   }
 ]
