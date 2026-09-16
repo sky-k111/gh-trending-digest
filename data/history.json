@@ -2984,5 +2984,44 @@
         "reason": "从零编写的操作系统，学习与参考价值高"
       }
     ]
+  },
+  {
+    "date": "2026-09-16",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1370331779,
+        "full_name": "letorig/video-generator-client",
+        "html_url": "https://github.com/letorig/video-generator-client",
+        "stars": 513,
+        "score": 4,
+        "reason": "多视频生成API的异步Python封装，含CLI和Web UI，实用"
+      },
+      {
+        "id": 1368857095,
+        "full_name": "pliablepixels/gap-trap",
+        "html_url": "https://github.com/pliablepixels/gap-trap",
+        "stars": 150,
+        "score": 4,
+        "reason": "为AI编码设置规则和门禁，提升vibe coding代码质量，实用"
+      },
+      {
+        "id": 1370241502,
+        "full_name": "opencoredev/bg0",
+        "html_url": "https://github.com/opencoredev/bg0",
+        "stars": 116,
+        "score": 4,
+        "reason": "浏览器端隐私背景移除工具，无需上传，实用"
+      },
+      {
+        "id": 1368223687,
+        "full_name": "lidge-jun/aside-codemode",
+        "html_url": "https://github.com/lidge-jun/aside-codemode",
+        "stars": 89,
+        "score": 4,
+        "reason": "批量代码搜索与浏览器操作优化，显著提升agent效率"
+      }
+    ]
   }
 ]
