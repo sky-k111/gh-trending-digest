@@ -3023,5 +3023,44 @@
         "reason": "批量代码搜索与浏览器操作优化，显著提升agent效率"
       }
     ]
+  },
+  {
+    "date": "2026-09-17",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1373347608,
+        "full_name": "Marcos66236/github-stars-history",
+        "html_url": "https://github.com/Marcos66236/github-stars-history",
+        "stars": 228,
+        "score": 4,
+        "reason": "GitHub star 历史追踪分析，对开源项目维护者有用"
+      },
+      {
+        "id": 1371220575,
+        "full_name": "anmolkapil/plexo",
+        "html_url": "https://github.com/anmolkapil/plexo",
+        "stars": 121,
+        "score": 4,
+        "reason": "多连接并行加速下载，实用工具"
+      },
+      {
+        "id": 1371300806,
+        "full_name": "YongshengWin/VpsCT",
+        "html_url": "https://github.com/YongshengWin/VpsCT",
+        "stars": 108,
+        "score": 4,
+        "reason": "自托管 VPS 管理面板，小团队实用"
+      },
+      {
+        "id": 1373440611,
+        "full_name": "awlevin/typesafe-computer-use",
+        "html_url": "https://github.com/awlevin/typesafe-computer-use",
+        "stars": 100,
+        "score": 4,
+        "reason": "低成本 computer-use 方案，AI agent 开发有用"
+      }
+    ]
   }
 ]
