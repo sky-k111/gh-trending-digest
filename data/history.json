@@ -3062,5 +3062,36 @@
         "reason": "低成本 computer-use 方案，AI agent 开发有用"
       }
     ]
+  },
+  {
+    "date": "2026-09-18",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1371919263,
+        "full_name": "apple/xcode-project-format",
+        "html_url": "https://github.com/apple/xcode-project-format",
+        "stars": 316,
+        "score": 4,
+        "reason": "Apple官方Xcode项目格式Swift库，对相关开发者有价值"
+      },
+      {
+        "id": 1373441039,
+        "full_name": "mirkovicdev/HFTENGINE",
+        "html_url": "https://github.com/mirkovicdev/HFTENGINE",
+        "stars": 124,
+        "score": 4,
+        "reason": "HFT回测回放控制台，量化开发者实用工具"
+      },
+      {
+        "id": 1372643178,
+        "full_name": "kdbhalala/avdslim",
+        "html_url": "https://github.com/kdbhalala/avdslim",
+        "stars": 108,
+        "score": 4,
+        "reason": "大幅降低AVD内存占用，Android开发者实用"
+      }
+    ]
   }
 ]
