@@ -3108,5 +3108,28 @@
         "reason": "GitHub搜索排名审计工具，对开源维护者实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-20",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1376380844,
+        "full_name": "incoai/splash",
+        "html_url": "https://github.com/incoai/splash",
+        "stars": 340,
+        "score": 4,
+        "reason": "Apple Silicon本地推理引擎，面向编码代理，实用"
+      },
+      {
+        "id": 1375026016,
+        "full_name": "realZachi/pg-jev",
+        "html_url": "https://github.com/realZachi/pg-jev",
+        "stars": 224,
+        "score": 4,
+        "reason": "Postgres自然语言查询扩展，实用性强"
+      }
+    ]
   }
 ]
