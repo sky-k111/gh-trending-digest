@@ -3131,5 +3131,44 @@
         "reason": "Postgres自然语言查询扩展，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-09-21",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1377039457,
+        "full_name": "LSPosed/ZygiskNext",
+        "html_url": "https://github.com/LSPosed/ZygiskNext",
+        "stars": 245,
+        "score": 5,
+        "reason": "LSPosed出品的Zygisk独立实现，安卓root用户必备"
+      },
+      {
+        "id": 1378288598,
+        "full_name": "zai-org/ZCode",
+        "html_url": "https://github.com/zai-org/ZCode",
+        "stars": 3533,
+        "score": 4,
+        "reason": "Z.ai官方编码agent工具，TypeScript实现，功能明确值得关注"
+      },
+      {
+        "id": 1378140242,
+        "full_name": "Haleclipse/CometixCode",
+        "html_url": "https://github.com/Haleclipse/CometixCode",
+        "stars": 409,
+        "score": 4,
+        "reason": "Claude Code TUI的Rust重实现，对终端用户有吸引力"
+      },
+      {
+        "id": 1376996215,
+        "full_name": "joeseesun/qiaomu-download",
+        "html_url": "https://github.com/joeseesun/qiaomu-download",
+        "stars": 267,
+        "score": 4,
+        "reason": "通用视频下载技能，支持多平台，实用性强"
+      }
+    ]
   }
 ]
