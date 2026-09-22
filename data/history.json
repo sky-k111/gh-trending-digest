@@ -3170,5 +3170,36 @@
         "reason": "通用视频下载技能，支持多平台，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-09-22",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1379574728,
+        "full_name": "jev-chat/jev-chat-jarvis",
+        "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+        "stars": 1758,
+        "score": 4,
+        "reason": "安卓无障碍对话副驾，非侵入式设计实用"
+      },
+      {
+        "id": 1378293154,
+        "full_name": "caxete/crypto-tax-calculator",
+        "html_url": "https://github.com/caxete/crypto-tax-calculator",
+        "stars": 377,
+        "score": 4,
+        "reason": "加密货币税务计算器，支持多平台实用"
+      },
+      {
+        "id": 1378453004,
+        "full_name": "kloxeld/xscrape",
+        "html_url": "https://github.com/kloxeld/xscrape",
+        "stars": 256,
+        "score": 4,
+        "reason": "X平台异步爬虫，功能完整含限流处理"
+      }
+    ]
   }
 ]
