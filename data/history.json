@@ -3201,5 +3201,44 @@
         "reason": "X平台异步爬虫，功能完整含限流处理"
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1379003933,
+        "full_name": "freestylefly/WeChatBridge",
+        "html_url": "https://github.com/freestylefly/WeChatBridge",
+        "stars": 351,
+        "score": 4,
+        "reason": "微信记录转发到AI Agent的macOS工具，实用性强"
+      },
+      {
+        "id": 1379929433,
+        "full_name": "jev-chat/jev-chat-windows",
+        "html_url": "https://github.com/jev-chat/jev-chat-windows",
+        "stars": 326,
+        "score": 4,
+        "reason": "微信回复辅助工具，本地OCR+LLM，隐私友好"
+      },
+      {
+        "id": 1379617146,
+        "full_name": "jev-chat/jev-chat-jarvis-mac",
+        "html_url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+        "stars": 244,
+        "score": 4,
+        "reason": "macOS微信意图识别悬浮窗，纯只读设计实用"
+      },
+      {
+        "id": 1378037330,
+        "full_name": "ghuntley/underclass",
+        "html_url": "https://github.com/ghuntley/underclass",
+        "stars": 157,
+        "score": 4,
+        "reason": "OpenAI兼容池化代理，解决配额和缓存问题，实用"
+      }
+    ]
   }
 ]
