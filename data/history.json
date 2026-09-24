@@ -3240,5 +3240,28 @@
         "reason": "OpenAI兼容池化代理，解决配额和缓存问题，实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-24",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1383905920,
+        "full_name": "SewCabinSpout/cleanupper",
+        "html_url": "https://github.com/SewCabinSpout/cleanupper",
+        "stars": 724,
+        "score": 4,
+        "reason": "macOS 磁盘清理 CLI，面向开发者清理缓存和 node_modules，实用"
+      },
+      {
+        "id": 1383809012,
+        "full_name": "yetone/magpie",
+        "html_url": "https://github.com/yetone/magpie",
+        "stars": 257,
+        "score": 4,
+        "reason": "菜单栏统一管理多个 AI agent 模型，实用性强"
+      }
+    ]
   }
 ]
