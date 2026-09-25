@@ -3263,5 +3263,36 @@
         "reason": "菜单栏统一管理多个 AI agent 模型，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-09-25",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1383518430,
+        "full_name": "mikehasa/golive-skill",
+        "html_url": "https://github.com/mikehasa/golive-skill",
+        "stars": 896,
+        "score": 4,
+        "reason": "帮助AI构建的产品上线部署，覆盖托管、数据库、域名等实用环节"
+      },
+      {
+        "id": 1386355153,
+        "full_name": "tobi/disktree",
+        "html_url": "https://github.com/tobi/disktree",
+        "stars": 329,
+        "score": 4,
+        "reason": "磁盘空间可视化清理工具，实用且专注"
+      },
+      {
+        "id": 1384228920,
+        "full_name": "saragordic/rooms",
+        "html_url": "https://github.com/saragordic/rooms",
+        "stars": 278,
+        "score": 4,
+        "reason": "Mac项目窗口切换工具，提升多项目开发效率"
+      }
+    ]
   }
 ]
