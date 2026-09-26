@@ -3294,5 +3294,36 @@
         "reason": "Mac项目窗口切换工具，提升多项目开发效率"
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1383988294,
+        "full_name": "yukitorido/short-video-generator-AI",
+        "html_url": "https://github.com/yukitorido/short-video-generator-AI",
+        "stars": 701,
+        "score": 4,
+        "reason": "AI短视频自动剪辑流水线，功能明确实用"
+      },
+      {
+        "id": 1385832170,
+        "full_name": "jankeesvw/omarchy-meeting-recorder",
+        "html_url": "https://github.com/jankeesvw/omarchy-meeting-recorder",
+        "stars": 251,
+        "score": 4,
+        "reason": "本地会议录制转录工具，隐私友好实用"
+      },
+      {
+        "id": 1386004688,
+        "full_name": "bridge-mind/bridgeclip",
+        "html_url": "https://github.com/bridge-mind/bridgeclip",
+        "stars": 227,
+        "score": 4,
+        "reason": "开源AI视频剪辑桌面应用，功能明确"
+      }
+    ]
   }
 ]
