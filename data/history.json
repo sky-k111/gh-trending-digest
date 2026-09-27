@@ -3325,5 +3325,60 @@
         "reason": "开源AI视频剪辑桌面应用，功能明确"
       }
     ]
+  },
+  {
+    "date": "2026-09-27",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1388482474,
+        "full_name": "dzhng/jevgrep",
+        "html_url": "https://github.com/dzhng/jevgrep",
+        "stars": 229,
+        "score": 4,
+        "reason": "语义代码搜索CLI，对编码Agent场景实用"
+      },
+      {
+        "id": 1385946301,
+        "full_name": "Niko1221/Strata",
+        "html_url": "https://github.com/Niko1221/Strata",
+        "stars": 219,
+        "score": 4,
+        "reason": "本地大模型推理引擎，低显存运行MoE模型，实用"
+      },
+      {
+        "id": 1386872576,
+        "full_name": "HeyOkay/HaloBattery",
+        "html_url": "https://github.com/HeyOkay/HaloBattery",
+        "stars": 185,
+        "score": 4,
+        "reason": "Windows托盘统一显示无线设备电量，实用小工具"
+      },
+      {
+        "id": 1385018726,
+        "full_name": "kaolti/phantomat",
+        "html_url": "https://github.com/kaolti/phantomat",
+        "stars": 170,
+        "score": 4,
+        "reason": "Hyprland无限画布窗口管理器，Wayland用户实用"
+      },
+      {
+        "id": 1388056636,
+        "full_name": "bjarneo/flux",
+        "html_url": "https://github.com/bjarneo/flux",
+        "stars": 160,
+        "score": 4,
+        "reason": "Omarchy电脑与手机互联工具，功能全面实用"
+      },
+      {
+        "id": 1388097438,
+        "full_name": "MysticGSI/mysticgsi",
+        "html_url": "https://github.com/MysticGSI/mysticgsi",
+        "stars": 156,
+        "score": 4,
+        "reason": "从原厂固件构建GSI镜像，Android开发者实用"
+      }
+    ]
   }
 ]
