@@ -3380,5 +3380,28 @@
         "reason": "从原厂固件构建GSI镜像，Android开发者实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1388819075,
+        "full_name": "DanFessler/trellis",
+        "html_url": "https://github.com/DanFessler/trellis",
+        "stars": 157,
+        "score": 4,
+        "reason": "分形布局库，为Web应用提供嵌套面板方案，有实际价值"
+      },
+      {
+        "id": 1388375325,
+        "full_name": "JoinArtisanVent/x-scraper-no-api",
+        "html_url": "https://github.com/JoinArtisanVent/x-scraper-no-api",
+        "stars": 153,
+        "score": 4,
+        "reason": "自托管X抓取工具，无需API密钥，输出LLM友好格式，实用"
+      }
+    ]
   }
 ]
