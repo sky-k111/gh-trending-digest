@@ -3403,5 +3403,20 @@
         "reason": "自托管X抓取工具，无需API密钥，输出LLM友好格式，实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1389873042,
+        "full_name": "rushiranpise/Shizuku-Next",
+        "html_url": "https://github.com/rushiranpise/Shizuku-Next",
+        "stars": 156,
+        "score": 4,
+        "reason": "Shizuku分支，Android免root调用系统API，实用"
+      }
+    ]
   }
 ]
