@@ -3418,5 +3418,68 @@
         "reason": "Shizuku分支，Android免root调用系统API，实用"
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1394011672,
+        "full_name": "openai/mcp-extensions",
+        "html_url": "https://github.com/openai/mcp-extensions",
+        "stars": 294,
+        "score": 5,
+        "reason": "OpenAI官方MCP扩展，构建ChatGPT原生插件的必备工具"
+      },
+      {
+        "id": 1395835665,
+        "full_name": "deepseek-ai/DeepGEMM-Ascend",
+        "html_url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
+        "stars": 167,
+        "score": 5,
+        "reason": "DeepSeek官方昇腾NPU矩阵乘法内核库，AI基础设施必备"
+      },
+      {
+        "id": 1393965829,
+        "full_name": "KKKKhazix/AIHOT",
+        "html_url": "https://github.com/KKKKhazix/AIHOT",
+        "stars": 3551,
+        "score": 4,
+        "reason": "可自托管的AI热点聚合框架，信源可定制，适合做行业资讯站"
+      },
+      {
+        "id": 1396688303,
+        "full_name": "feder-cr/dots",
+        "html_url": "https://github.com/feder-cr/dots",
+        "stars": 356,
+        "score": 4,
+        "reason": "带反检测浏览器的开源AI agent，浏览器自动化场景实用"
+      },
+      {
+        "id": 1391717301,
+        "full_name": "openJiuwen-ai/iCode",
+        "html_url": "https://github.com/openJiuwen-ai/iCode",
+        "stars": 260,
+        "score": 4,
+        "reason": "轻量可扩展的离线AI开发平台与agent工具包，实用性强"
+      },
+      {
+        "id": 1391318647,
+        "full_name": "ng-native/ng-native",
+        "html_url": "https://github.com/ng-native/ng-native",
+        "stars": 210,
+        "score": 4,
+        "reason": "让Angular应用渲染为原生iOS/Android视图，跨端方案有价值"
+      },
+      {
+        "id": 1390878120,
+        "full_name": "scarletkc/seiso",
+        "html_url": "https://github.com/scarletkc/seiso",
+        "stars": 151,
+        "score": 4,
+        "reason": "面向AI生成文档的Markdown规范与linter，AI协作场景实用"
+      }
+    ]
   }
 ]
