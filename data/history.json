@@ -3481,5 +3481,44 @@
         "reason": "面向AI生成文档的Markdown规范与linter，AI协作场景实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1396948593,
+        "full_name": "ZacharyZhang-NY/Ely-GPUI-Components",
+        "html_url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+        "stars": 255,
+        "score": 4,
+        "reason": "GPUI组件库，Rust桌面UI开发有实际价值"
+      },
+      {
+        "id": 1396765235,
+        "full_name": "deepseek-ai/DeepEP-Ascend",
+        "html_url": "https://github.com/deepseek-ai/DeepEP-Ascend",
+        "stars": 189,
+        "score": 4,
+        "reason": "DeepSeek官方Ascend NPU通信库，AI基础设施实用"
+      },
+      {
+        "id": 1392255587,
+        "full_name": "ESPARGOS/esp-sdr",
+        "html_url": "https://github.com/ESPARGOS/esp-sdr",
+        "stars": 180,
+        "score": 4,
+        "reason": "ESP32软件定义无线电，硬件开发者有实用价值"
+      },
+      {
+        "id": 1393634228,
+        "full_name": "alpcanaydin/tusk",
+        "html_url": "https://github.com/alpcanaydin/tusk",
+        "stars": 171,
+        "score": 4,
+        "reason": "原生macOS数据库客户端，支持20种数据库，实用"
+      }
+    ]
   }
 ]
