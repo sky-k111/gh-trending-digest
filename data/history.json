@@ -3520,5 +3520,36 @@
         "reason": "原生macOS数据库客户端，支持20种数据库，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-02",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1397939439,
+        "full_name": "Edwardxlai/easyread",
+        "html_url": "https://github.com/Edwardxlai/easyread",
+        "stars": 542,
+        "score": 4,
+        "reason": "论文翻译+对照+AI问答，学术阅读场景实用"
+      },
+      {
+        "id": 1397588814,
+        "full_name": "CAPCOM-TD-OSS/REDox",
+        "html_url": "https://github.com/CAPCOM-TD-OSS/REDox",
+        "stars": 229,
+        "score": 4,
+        "reason": "CAPCOM开源的高性能.NET结构化数据引擎，工业级实用"
+      },
+      {
+        "id": 1399525785,
+        "full_name": "youcci/playport",
+        "html_url": "https://github.com/youcci/playport",
+        "stars": 163,
+        "score": 4,
+        "reason": "浏览器无线CarPlay接收器，技术方案新颖实用"
+      }
+    ]
   }
 ]
