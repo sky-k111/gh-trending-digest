@@ -3582,5 +3582,52 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1402193143,
+        "full_name": "facebookincubator/muse-gadget-sdk",
+        "html_url": "https://github.com/facebookincubator/muse-gadget-sdk",
+        "stars": 948,
+        "score": 4,
+        "reason": "Meta官方开源的智能眼镜SDK，硬件开发者可直接使用"
+      },
+      {
+        "id": 1400714777,
+        "full_name": "StayLameBro/backburner",
+        "html_url": "https://github.com/StayLameBro/backburner",
+        "stars": 246,
+        "score": 4,
+        "reason": "用iPhone辅助Mac跑大模型的创新方案，有实用价值"
+      },
+      {
+        "id": 1400250107,
+        "full_name": "BootLoops-ai/bootloops",
+        "html_url": "https://github.com/BootLoops-ai/bootloops",
+        "stars": 214,
+        "score": 4,
+        "reason": "面向LLM Agent的高精度物理计算工具，科研场景实用"
+      },
+      {
+        "id": 1402417830,
+        "full_name": "jarrodwatts/claude-image-view",
+        "html_url": "https://github.com/jarrodwatts/claude-image-view",
+        "stars": 116,
+        "score": 4,
+        "reason": "解决Claude Code图片预览痛点的小工具，实用"
+      },
+      {
+        "id": 1399045273,
+        "full_name": "zoolapp/aime",
+        "html_url": "https://github.com/zoolapp/aime",
+        "stars": 106,
+        "score": 4,
+        "reason": "基于RIME的开源macOS中文输入法，本地优先实用"
+      }
+    ]
   }
 ]
