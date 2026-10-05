@@ -3629,5 +3629,44 @@
         "reason": "基于RIME的开源macOS中文输入法，本地优先实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1401476500,
+        "full_name": "QingYunA/answer-me-with-html",
+        "html_url": "https://github.com/QingYunA/answer-me-with-html",
+        "stars": 1169,
+        "score": 4,
+        "reason": "让AI Agent用一页HTML回答复杂问题，思路新颖实用，适合开发者集成"
+      },
+      {
+        "id": 1403431984,
+        "full_name": "ythx-101/live-panel-skill",
+        "html_url": "https://github.com/ythx-101/live-panel-skill",
+        "stars": 498,
+        "score": 4,
+        "reason": "JSON驱动的动画架构图生成工具，输出视频或网页，对技术演示有价值"
+      },
+      {
+        "id": 1403115747,
+        "full_name": "Jakeschincariol/replica-skill",
+        "html_url": "https://github.com/Jakeschincariol/replica-skill",
+        "stars": 404,
+        "score": 4,
+        "reason": "免费Claude技能集，可逆向工程并重建应用，对Agent开发者有实用价值"
+      },
+      {
+        "id": 1400880490,
+        "full_name": "zzzz7788990213-ops/EvoVLM",
+        "html_url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+        "stars": 354,
+        "score": 4,
+        "reason": "LLM引导的进化搜索优化视觉语言推理，研究价值高，代码实用"
+      }
+    ]
   }
 ]
