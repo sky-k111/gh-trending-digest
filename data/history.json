@@ -3668,5 +3668,44 @@
         "reason": "LLM引导的进化搜索优化视觉语言推理，研究价值高，代码实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1405454424,
+        "full_name": "elstongun/leviathan",
+        "html_url": "https://github.com/elstongun/leviathan",
+        "stars": 448,
+        "score": 4,
+        "reason": "为Agent提供大规模数据集的深度记忆检索，单二进制实用"
+      },
+      {
+        "id": 1403388032,
+        "full_name": "allenv0/SCM",
+        "html_url": "https://github.com/allenv0/SCM",
+        "stars": 384,
+        "score": 4,
+        "reason": "macOS本地AI照片与视频帧搜索，实用工具"
+      },
+      {
+        "id": 1404677872,
+        "full_name": "noahdunnagan/mcopt",
+        "html_url": "https://github.com/noahdunnagan/mcopt",
+        "stars": 343,
+        "score": 4,
+        "reason": "Apple Silicon上的Minecraft原生Metal渲染器，技术价值高"
+      },
+      {
+        "id": 1402986945,
+        "full_name": "Adolanium/hermes-gadget-sdk",
+        "html_url": "https://github.com/Adolanium/hermes-gadget-sdk",
+        "stars": 282,
+        "score": 4,
+        "reason": "ESP32语音/文本设备SDK，含固件与模拟器，实用"
+      }
+    ]
   }
 ]
