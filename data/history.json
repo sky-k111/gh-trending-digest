@@ -3707,5 +3707,44 @@
         "reason": "ESP32语音/文本设备SDK，含固件与模拟器，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1407950271,
+        "full_name": "openai/math",
+        "html_url": "https://github.com/openai/math",
+        "stars": 4900,
+        "score": 4,
+        "reason": "OpenAI 形式化数学库，Lean 生态重要资源，但受众较窄"
+      },
+      {
+        "id": 1405707774,
+        "full_name": "rit3zh/morphlet",
+        "html_url": "https://github.com/rit3zh/morphlet",
+        "stars": 223,
+        "score": 4,
+        "reason": "React Native 原生浮动托盘组件，UI 开发实用"
+      },
+      {
+        "id": 1403822558,
+        "full_name": "MystiaFin/amane",
+        "html_url": "https://github.com/MystiaFin/amane",
+        "stars": 149,
+        "score": 4,
+        "reason": "纯 Rust 构建 Wayland 桌面 shell 的库，Rust 生态有价值"
+      },
+      {
+        "id": 1405466823,
+        "full_name": "kandinskylab/kandinsky-6",
+        "html_url": "https://github.com/kandinskylab/kandinsky-6",
+        "stars": 134,
+        "score": 4,
+        "reason": "Kandinsky 6.0 视频音频生成基础模型，AI 生成领域重要"
+      }
+    ]
   }
 ]
