@@ -3746,5 +3746,36 @@
         "reason": "Kandinsky 6.0 视频音频生成基础模型，AI 生成领域重要"
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1408371739,
+        "full_name": "bas3line/ascii",
+        "html_url": "https://github.com/bas3line/ascii",
+        "stars": 317,
+        "score": 4,
+        "reason": "网页ASCII动画组件，TypeScript实现，前端可用"
+      },
+      {
+        "id": 1407873347,
+        "full_name": "LosaLosSantos/aurelio-finance",
+        "html_url": "https://github.com/LosaLosSantos/aurelio-finance",
+        "stars": 308,
+        "score": 4,
+        "reason": "自托管个人财富分析，FastAPI+React，实用"
+      },
+      {
+        "id": 1406548400,
+        "full_name": "opencoredev/convt",
+        "html_url": "https://github.com/opencoredev/convt",
+        "stars": 198,
+        "score": 4,
+        "reason": "右键文件转换工具，Rust实现，简洁实用"
+      }
+    ]
   }
 ]
