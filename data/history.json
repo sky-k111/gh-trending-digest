@@ -3777,5 +3777,52 @@
         "reason": "右键文件转换工具，Rust实现，简洁实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1408465463,
+        "full_name": "nullmoth/nvidia-macos-driver",
+        "html_url": "https://github.com/nullmoth/nvidia-macos-driver",
+        "stars": 1420,
+        "score": 4,
+        "reason": "为macOS提供NVIDIA RTX驱动的开源方案，对特定用户很有价值"
+      },
+      {
+        "id": 1407504032,
+        "full_name": "zhongerxin/iPhone-use",
+        "html_url": "https://github.com/zhongerxin/iPhone-use",
+        "stars": 901,
+        "score": 4,
+        "reason": "通过USB让Codex操作iPhone，自动化测试场景实用"
+      },
+      {
+        "id": 1410750399,
+        "full_name": "noahdunnagan/fsearch",
+        "html_url": "https://github.com/noahdunnagan/fsearch",
+        "stars": 694,
+        "score": 4,
+        "reason": "macOS全盘文件搜索，毫秒级响应，实用工具"
+      },
+      {
+        "id": 1410661601,
+        "full_name": "ToiCF/CF-Workers-TGProxy",
+        "html_url": "https://github.com/ToiCF/CF-Workers-TGProxy",
+        "stars": 233,
+        "score": 4,
+        "reason": "Cloudflare Workers上的Telegram代理，功能完善实用"
+      },
+      {
+        "id": 1410733155,
+        "full_name": "Nonco-Organization/multicoin-address-validator",
+        "html_url": "https://github.com/Nonco-Organization/multicoin-address-validator",
+        "stars": 231,
+        "score": 4,
+        "reason": "多币种地址验证库，加密货币开发常用工具"
+      }
+    ]
   }
 ]
