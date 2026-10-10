@@ -3824,5 +3824,60 @@
         "reason": "多币种地址验证库，加密货币开发常用工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1409787646,
+        "full_name": "mhtsec/ARTEX",
+        "html_url": "https://github.com/mhtsec/ARTEX",
+        "stars": 2494,
+        "score": 4,
+        "reason": "AI自主渗透测试系统，Go实现，有竞赛背景，对安全研究者有实用价值"
+      },
+      {
+        "id": 1408284340,
+        "full_name": "pingdotgg/ts-rust",
+        "html_url": "https://github.com/pingdotgg/ts-rust",
+        "stars": 832,
+        "score": 4,
+        "reason": "TypeScript编译器Rust移植实验，对编译器研究者有参考价值"
+      },
+      {
+        "id": 1409860044,
+        "full_name": "t4t5/omdrop-owl",
+        "html_url": "https://github.com/t4t5/omdrop-owl",
+        "stars": 655,
+        "score": 4,
+        "reason": "为非苹果设备实现AirDrop功能，跨平台文件传输实用工具"
+      },
+      {
+        "id": 1408277479,
+        "full_name": "HelixDB/helix-foundry",
+        "html_url": "https://github.com/HelixDB/helix-foundry",
+        "stars": 637,
+        "score": 4,
+        "reason": "本地优先数据工作台，基于HelixDB和DuckDB，数据整合有实用价值"
+      },
+      {
+        "id": 1410002762,
+        "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+        "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "stars": 505,
+        "score": 4,
+        "reason": "让AI agent在Mac屏幕上绘制箭头的CLI工具，对agent开发者实用"
+      },
+      {
+        "id": 1410719150,
+        "full_name": "anthropics/oss-scanner",
+        "html_url": "https://github.com/anthropics/oss-scanner",
+        "stars": 427,
+        "score": 4,
+        "reason": "Anthropic官方OSS扫描工具，对开源合规有实用价值"
+      }
+    ]
   }
 ]
