@@ -4479,5 +4479,20 @@
         "reason": "AI驱动的攻击面评估工具，安全领域实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1432980411,
+        "full_name": "designfuchen/word-atlas",
+        "html_url": "https://github.com/designfuchen/word-atlas",
+        "stars": 1917,
+        "score": 4,
+        "reason": "雅思词汇学习应用，含7298词、英美音标和FSRS复习算法，数据集开源可复用"
+      }
+    ]
   }
 ]
