@@ -4494,5 +4494,28 @@
         "reason": "雅思词汇学习应用，含7298词、英美音标和FSRS复习算法，数据集开源可复用"
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1433297111,
+        "full_name": "interplains/Zero-Breach-Toolkit",
+        "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
+        "stars": 1258,
+        "score": 4,
+        "reason": "开源离线间谍软件检测工具，跨平台实用"
+      },
+      {
+        "id": 1432850045,
+        "full_name": "heydeer/pngdeer",
+        "html_url": "https://github.com/heydeer/pngdeer",
+        "stars": 281,
+        "score": 4,
+        "reason": "PNG压缩CLI与浏览器工具，实用高效"
+      }
+    ]
   }
 ]
