@@ -4517,5 +4517,60 @@
         "reason": "PNG压缩CLI与浏览器工具，实用高效"
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1435761182,
+        "full_name": "OpenBMB/MiniCPM-OCR",
+        "html_url": "https://github.com/OpenBMB/MiniCPM-OCR",
+        "stars": 354,
+        "score": 5,
+        "reason": "OpenBMB出品的OCR模型，准确且带正确性评估，实用性强"
+      },
+      {
+        "id": 1433846971,
+        "full_name": "yaojingang/GEOInflow",
+        "html_url": "https://github.com/yaojingang/GEOInflow",
+        "stars": 698,
+        "score": 4,
+        "reason": "自托管GEO分析工具，功能明确有实际用途"
+      },
+      {
+        "id": 1435425970,
+        "full_name": "patch-gg/anymove",
+        "html_url": "https://github.com/patch-gg/anymove",
+        "stars": 386,
+        "score": 4,
+        "reason": "单视频动捕转GLB，技术方案清晰实用"
+      },
+      {
+        "id": 1436502942,
+        "full_name": "MiniMax-AI/mcode-stack",
+        "html_url": "https://github.com/MiniMax-AI/mcode-stack",
+        "stars": 322,
+        "score": 4,
+        "reason": "MiniMax官方开源工作流与技能，对AI编码有参考价值"
+      },
+      {
+        "id": 1435672472,
+        "full_name": "haydenschmitty/floorplan",
+        "html_url": "https://github.com/haydenschmitty/floorplan",
+        "stars": 299,
+        "score": 4,
+        "reason": "代码库交互式地图可视化，对理解项目结构有帮助"
+      },
+      {
+        "id": 1434992606,
+        "full_name": "toyxyz/toyxyz_RGBMocap",
+        "html_url": "https://github.com/toyxyz/toyxyz_RGBMocap",
+        "stars": 258,
+        "score": 4,
+        "reason": "Windows原生视频动捕，支持FBX/VMD导出，实用"
+      }
+    ]
   }
 ]
