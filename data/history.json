@@ -4572,5 +4572,20 @@
         "reason": "Windows原生视频动捕，支持FBX/VMD导出，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1437343601,
+        "full_name": "Humpalumps/Ultra-Water",
+        "html_url": "https://github.com/Humpalumps/Ultra-Water",
+        "stars": 368,
+        "score": 4,
+        "reason": "three.js实时FFT海洋渲染器，技术含量高，对图形开发者有参考价值"
+      }
+    ]
   }
 ]
