@@ -4587,5 +4587,52 @@
         "reason": "three.js实时FFT海洋渲染器，技术含量高，对图形开发者有参考价值"
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1438540053,
+        "full_name": "wangzan101/Mika",
+        "html_url": "https://github.com/wangzan101/Mika",
+        "stars": 1779,
+        "score": 4,
+        "reason": "Android 端侧 AI agent，可操作 App 与网页，架构完整有实用价值"
+      },
+      {
+        "id": 1439372976,
+        "full_name": "patch-gg/pixelfx",
+        "html_url": "https://github.com/patch-gg/pixelfx",
+        "stars": 446,
+        "score": 4,
+        "reason": "232 个像素特效代码片段加 Claude 技能，游戏开发实用"
+      },
+      {
+        "id": 1436698875,
+        "full_name": "shipwords-dev/shipwords",
+        "html_url": "https://github.com/shipwords-dev/shipwords",
+        "stars": 304,
+        "score": 4,
+        "reason": "Cloudflare 原生 AI 站群框架，含认证/积分/支付，可直接起项目"
+      },
+      {
+        "id": 1437033043,
+        "full_name": "jmanico/grim-prompter",
+        "html_url": "https://github.com/jmanico/grim-prompter",
+        "stars": 268,
+        "score": 4,
+        "reason": "面向 AI 编码代理的威胁建模工具，36 种架构方法，安全开发有价值"
+      },
+      {
+        "id": 1436993930,
+        "full_name": "cutetailbud/ff-ruyijs",
+        "html_url": "https://github.com/cutetailbud/ff-ruyijs",
+        "stars": 254,
+        "score": 4,
+        "reason": "用真实 Firefox 引擎在 Python 中跑站点 JS，反爬与自动化场景实用"
+      }
+    ]
   }
 ]
