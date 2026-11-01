@@ -4634,5 +4634,36 @@
         "reason": "用真实 Firefox 引擎在 Python 中跑站点 JS，反爬与自动化场景实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1440705679,
+        "full_name": "deepseek-ai/dsh-superagent-prototype",
+        "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "stars": 4048,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1438623288,
+        "full_name": "heydamir/unslop",
+        "html_url": "https://github.com/heydamir/unslop",
+        "stars": 3818,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1438394948,
+        "full_name": "valentderah/totk-pc-recomp",
+        "html_url": "https://github.com/valentderah/totk-pc-recomp",
+        "stars": 2756,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
