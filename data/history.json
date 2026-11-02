@@ -4665,5 +4665,28 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1441272552,
+        "full_name": "Verlintas/NOIR",
+        "html_url": "https://github.com/Verlintas/NOIR",
+        "stars": 454,
+        "score": 4,
+        "reason": "基于adb的Android隐私审计工具，开发者与安全人员实用"
+      },
+      {
+        "id": 1442056769,
+        "full_name": "Balanov/uncut",
+        "html_url": "https://github.com/Balanov/uncut",
+        "stars": 398,
+        "score": 4,
+        "reason": "轻量无头编码Agent框架，单二进制设计简洁实用"
+      }
+    ]
   }
 ]
