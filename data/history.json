@@ -4688,5 +4688,20 @@
         "reason": "轻量无头编码Agent框架，单二进制设计简洁实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1443300132,
+        "full_name": "Balanov/shim",
+        "html_url": "https://github.com/Balanov/shim",
+        "stars": 402,
+        "score": 4,
+        "reason": "轻量本地AI harness，零依赖，设计简洁实用"
+      }
+    ]
   }
 ]
