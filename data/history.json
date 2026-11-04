@@ -4703,5 +4703,36 @@
         "reason": "轻量本地AI harness，零依赖，设计简洁实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1443985070,
+        "full_name": "KKKKhazix/agent-autoloop",
+        "html_url": "https://github.com/KKKKhazix/agent-autoloop",
+        "stars": 1358,
+        "score": 4,
+        "reason": "让CLI Agent后台自主接活并在关键决策时请求确认，对Agent工作流自动化有实用价值。"
+      },
+      {
+        "id": 1441521221,
+        "full_name": "wquguru/cicada",
+        "html_url": "https://github.com/wquguru/cicada",
+        "stars": 789,
+        "score": 4,
+        "reason": "macOS任意会议/直播实时字幕与AI纪要工具，功能明确且对远程办公实用。"
+      },
+      {
+        "id": 1441507782,
+        "full_name": "kevintngo/looseleaf",
+        "html_url": "https://github.com/kevintngo/looseleaf",
+        "stars": 342,
+        "score": 4,
+        "reason": "手绘风格的可访问React组件库并带shadcn registry，对前端开发有实际价值。"
+      }
+    ]
   }
 ]
