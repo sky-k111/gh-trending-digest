@@ -4765,5 +4765,52 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1444569395,
+        "full_name": "brightsongwrath/personal-data-deletor-osint",
+        "html_url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+        "stars": 651,
+        "score": 4,
+        "reason": "本地运行的数据经纪人删除工具，隐私保护实用，无账号无服务器"
+      },
+      {
+        "id": 1445112696,
+        "full_name": "livliv-dev/player",
+        "html_url": "https://github.com/livliv-dev/player",
+        "stars": 610,
+        "score": 4,
+        "reason": "轻量2.5D网页角色播放器，带唇同步和摄像头面部追踪，适合虚拟形象场景"
+      },
+      {
+        "id": 1444005452,
+        "full_name": "Sandflow-ai/sand3d",
+        "html_url": "https://github.com/Sandflow-ai/sand3d",
+        "stars": 453,
+        "score": 4,
+        "reason": "面向LLM的Python 3D建模库，思路新颖，适合AI辅助建模"
+      },
+      {
+        "id": 1447903382,
+        "full_name": "HerdBuilderEstimate/roblox-studio-mcp",
+        "html_url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+        "stars": 426,
+        "score": 4,
+        "reason": "Roblox Studio的MCP服务器，可让AI助手读写脚本和运行测试，实用"
+      },
+      {
+        "id": 1443805845,
+        "full_name": "Renly1994/xiaotang-daozai",
+        "html_url": "https://github.com/Renly1994/xiaotang-daozai",
+        "stars": 385,
+        "score": 4,
+        "reason": "Rust构建的Windows桌面信息岛，集成歌词/验证码/待办/AI额度，实用且精致"
+      }
+    ]
   }
 ]
