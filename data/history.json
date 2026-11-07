@@ -4812,5 +4812,36 @@
         "reason": "Rust构建的Windows桌面信息岛，集成歌词/验证码/待办/AI额度，实用且精致"
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1447586025,
+        "full_name": "voyager-so/vork",
+        "html_url": "https://github.com/voyager-so/vork",
+        "stars": 490,
+        "score": 4,
+        "reason": "面向AI代理的无头3D/VFX引擎，Rust实现，技术方向有价值"
+      },
+      {
+        "id": 1447145240,
+        "full_name": "JosssphZhou/poki",
+        "html_url": "https://github.com/JosssphZhou/poki",
+        "stars": 439,
+        "score": 4,
+        "reason": "让AI代理操作真实iPhone的MCP服务器，自动化场景实用"
+      },
+      {
+        "id": 1445695976,
+        "full_name": "egoist/mygo-music",
+        "html_url": "https://github.com/egoist/mygo-music",
+        "stars": 413,
+        "score": 4,
+        "reason": "Go编写的可插件扩展原生音乐播放器，架构有参考价值"
+      }
+    ]
   }
 ]
