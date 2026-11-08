@@ -4843,5 +4843,20 @@
         "reason": "Go编写的可插件扩展原生音乐播放器，架构有参考价值"
       }
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1447939618,
+        "full_name": "devvmhq/devvm",
+        "html_url": "https://github.com/devvmhq/devvm",
+        "stars": 372,
+        "score": 4,
+        "reason": "为每个项目提供隔离VM沙箱，对开发者与AI编码代理有实用价值"
+      }
+    ]
   }
 ]
