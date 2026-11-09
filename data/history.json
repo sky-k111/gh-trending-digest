@@ -4858,5 +4858,36 @@
         "reason": "为每个项目提供隔离VM沙箱，对开发者与AI编码代理有实用价值"
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1448515937,
+        "full_name": "DIYgod/pinky",
+        "html_url": "https://github.com/DIYgod/pinky",
+        "stars": 1114,
+        "score": 4,
+        "reason": "让AI代理操作手机并保持人工介入，思路新颖实用"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 970,
+        "score": 4,
+        "reason": "针对高延迟机上Wi-Fi的TCP加速方案，零依赖，场景明确"
+      },
+      {
+        "id": 1448920409,
+        "full_name": "lxe/phoneuse",
+        "html_url": "https://github.com/lxe/phoneuse",
+        "stars": 486,
+        "score": 4,
+        "reason": "从Linux控制iPhone的AirPlay+蓝牙HID工具，实用且有CLI支持"
+      }
+    ]
   }
 ]
