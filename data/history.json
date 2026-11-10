@@ -4889,5 +4889,44 @@
         "reason": "从Linux控制iPhone的AirPlay+蓝牙HID工具，实用且有CLI支持"
       }
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1449966158,
+        "full_name": "PlateParrotTerminal/lag-doctor",
+        "html_url": "https://github.com/PlateParrotTerminal/lag-doctor",
+        "stars": 439,
+        "score": 4,
+        "reason": "游戏网络延迟/丢包诊断工具，Rust实现，定位清晰实用"
+      },
+      {
+        "id": 1448889325,
+        "full_name": "TooonyChen/finallyshell",
+        "html_url": "https://github.com/TooonyChen/finallyshell",
+        "stars": 429,
+        "score": 4,
+        "reason": "Go实现的SSH客户端，类FinalShell，对运维开发者有实用价值"
+      },
+      {
+        "id": 1450160937,
+        "full_name": "djyde/dalibre",
+        "html_url": "https://github.com/djyde/dalibre",
+        "stars": 286,
+        "score": 4,
+        "reason": "Go实现的轻量Calibre替代品，电子书管理有实际需求"
+      },
+      {
+        "id": 1451138222,
+        "full_name": "Nanoutrolley/roblox-studio-mcp",
+        "html_url": "https://github.com/Nanoutrolley/roblox-studio-mcp",
+        "stars": 283,
+        "score": 4,
+        "reason": "Roblox Studio的MCP服务器，连接AI助手自动化开发，实用"
+      }
+    ]
   }
 ]
