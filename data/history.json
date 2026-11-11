@@ -4928,5 +4928,36 @@
         "reason": "Roblox Studio的MCP服务器，连接AI助手自动化开发，实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1452531582,
+        "full_name": "HybridRobotics/supermimic",
+        "html_url": "https://github.com/HybridRobotics/supermimic",
+        "stars": 758,
+        "score": 4,
+        "reason": "人形机器人全身运动跟踪研究，有实质Python实现，学术价值高"
+      },
+      {
+        "id": 1452008226,
+        "full_name": "HolyArrs/HolyArrs",
+        "html_url": "https://github.com/HolyArrs/HolyArrs",
+        "stars": 645,
+        "score": 4,
+        "reason": "自托管媒体服务器，Go实现，Docker部署，实用性强"
+      },
+      {
+        "id": 1451419767,
+        "full_name": "kolbicz/WQFiles",
+        "html_url": "https://github.com/kolbicz/WQFiles",
+        "stars": 569,
+        "score": 4,
+        "reason": "iOS文件浏览器与缓存清理工具，Objective-C实现，免越狱实用"
+      }
+    ]
   }
 ]
