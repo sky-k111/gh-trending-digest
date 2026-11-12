@@ -4959,5 +4959,68 @@
         "reason": "iOS文件浏览器与缓存清理工具，Objective-C实现，免越狱实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1450794567,
+        "full_name": "agentes-chat/agentes-chat",
+        "html_url": "https://github.com/agentes-chat/agentes-chat",
+        "stars": 602,
+        "score": 4,
+        "reason": "自托管 Slack 替代品并集成多 AI agent，架构完整，团队协作有实用价值"
+      },
+      {
+        "id": 1453132706,
+        "full_name": "FrigadeHQ/yogurt",
+        "html_url": "https://github.com/FrigadeHQ/yogurt",
+        "stars": 576,
+        "score": 4,
+        "reason": "本地私有 AI 会议纪要工具，开源且隐私友好，实用性强"
+      },
+      {
+        "id": 1451775929,
+        "full_name": "alexeyw/lot-map",
+        "html_url": "https://github.com/alexeyw/lot-map",
+        "stars": 462,
+        "score": 4,
+        "reason": "Claude Code 可视化观测面板，对 agent 开发调试有实际帮助"
+      },
+      {
+        "id": 1452864416,
+        "full_name": "ValidatorStack/solana-vigil",
+        "html_url": "https://github.com/ValidatorStack/solana-vigil",
+        "stars": 241,
+        "score": 4,
+        "reason": "Solana 验证节点健康检查单二进制工具，运维实用且只读安全"
+      },
+      {
+        "id": 1454283024,
+        "full_name": "SsKanDon/blender-ai-mcp-addon",
+        "html_url": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+        "stars": 205,
+        "score": 4,
+        "reason": "Blender AI 助手与 MCP 服务器，3D 工作流集成实用"
+      },
+      {
+        "id": 1452464401,
+        "full_name": "egoist/tinytraffic",
+        "html_url": "https://github.com/egoist/tinytraffic",
+        "stars": 200,
+        "score": 4,
+        "reason": "单二进制自托管网站分析，轻量实用，部署简单"
+      },
+      {
+        "id": 1454357066,
+        "full_name": "SsKanDon/blender-unreal-asset-bridge",
+        "html_url": "https://github.com/SsKanDon/blender-unreal-asset-bridge",
+        "stars": 190,
+        "score": 4,
+        "reason": "Blender 到 Unreal 批量资产桥接，跨引擎工作流实用价值高"
+      }
+    ]
   }
 ]
