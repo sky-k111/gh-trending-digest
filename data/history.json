@@ -5022,5 +5022,36 @@
         "reason": "Blender 到 Unreal 批量资产桥接，跨引擎工作流实用价值高"
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1452417816,
+        "full_name": "huawei-csl/MACaQ",
+        "html_url": "https://github.com/huawei-csl/MACaQ",
+        "stars": 219,
+        "score": 5,
+        "reason": "华为开源模型量化工具，支持多模态和主流推理框架，实用性强"
+      },
+      {
+        "id": 1454392563,
+        "full_name": "makepad/relax",
+        "html_url": "https://github.com/makepad/relax",
+        "stars": 313,
+        "score": 4,
+        "reason": "Rust JIT编译器，对Rust生态有实际价值"
+      },
+      {
+        "id": 1454661440,
+        "full_name": "rivet-dev/open-orange",
+        "html_url": "https://github.com/rivet-dev/open-orange",
+        "stars": 296,
+        "score": 4,
+        "reason": "在非CF平台运行Workers，解决实际迁移痛点"
+      }
+    ]
   }
 ]
