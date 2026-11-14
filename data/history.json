@@ -5053,5 +5053,36 @@
         "reason": "在非CF平台运行Workers，解决实际迁移痛点"
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1455815512,
+        "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+        "html_url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+        "stars": 541,
+        "score": 4,
+        "reason": "轻量便携的FFmpeg图形界面，Windows用户实用"
+      },
+      {
+        "id": 1455933518,
+        "full_name": "berkantay/gpucanvas",
+        "html_url": "https://github.com/berkantay/gpucanvas",
+        "stars": 243,
+        "score": 4,
+        "reason": "GPU渲染DOM节点无限画布，技术新颖有实用价值"
+      },
+      {
+        "id": 1455921659,
+        "full_name": "gabrielbuzziv/emissor-nfse-nacional",
+        "html_url": "https://github.com/gabrielbuzziv/emissor-nfse-nacional",
+        "stars": 221,
+        "score": 4,
+        "reason": "自托管NFS-e发票发射器，巴西用户实用"
+      }
+    ]
   }
 ]
