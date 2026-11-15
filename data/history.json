@@ -5084,5 +5084,20 @@
         "reason": "自托管NFS-e发票发射器，巴西用户实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1456537250,
+        "full_name": "opencoredev/islandcn",
+        "html_url": "https://github.com/opencoredev/islandcn",
+        "stars": 692,
+        "score": 4,
+        "reason": "基于shadcn的React灵动岛组件，实用且易集成"
+      }
+    ]
   }
 ]
