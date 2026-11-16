@@ -5099,5 +5099,20 @@
         "reason": "基于shadcn的React灵动岛组件，实用且易集成"
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1457509118,
+        "full_name": "haziqahmedqasmi/PeakCut",
+        "html_url": "https://github.com/haziqahmedqasmi/PeakCut",
+        "stars": 487,
+        "score": 4,
+        "reason": "自托管AI长视频切片工具，自带API key，实用性强"
+      }
+    ]
   }
 ]
