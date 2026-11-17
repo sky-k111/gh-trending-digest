@@ -5114,5 +5114,44 @@
         "reason": "自托管AI长视频切片工具，自带API key，实用性强"
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1457362196,
+        "full_name": "CzzzzzzJ/mdldm-maitian",
+        "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "stars": 660,
+        "score": 4,
+        "reason": "多平台自媒体发布与数据监控工具，功能完整"
+      },
+      {
+        "id": 1460469810,
+        "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+        "stars": 652,
+        "score": 4,
+        "reason": "轻量级无线设备电量监控托盘应用，实用"
+      },
+      {
+        "id": 1460417668,
+        "full_name": "sybil-solutions/inference-optimisation-skill",
+        "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "stars": 437,
+        "score": 4,
+        "reason": "LLM推理性能优化的Agent技能，有实用价值"
+      },
+      {
+        "id": 1457813894,
+        "full_name": "hikaku-io/hikaku-extension",
+        "html_url": "https://github.com/hikaku-io/hikaku-extension",
+        "stars": 400,
+        "score": 4,
+        "reason": "本地运行的AI生成图像检测浏览器扩展，实用"
+      }
+    ]
   }
 ]
