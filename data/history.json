@@ -5153,5 +5153,20 @@
         "reason": "本地运行的AI生成图像检测浏览器扩展，实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1459971684,
+        "full_name": "erkamyaman/rust-anything",
+        "html_url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 1989,
+        "score": 4,
+        "reason": "渐进式代码迁移工具，可对照原行为逐步重写为Rust，思路实用"
+      }
+    ]
   }
 ]
