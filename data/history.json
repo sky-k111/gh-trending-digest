@@ -5168,5 +5168,52 @@
         "reason": "渐进式代码迁移工具，可对照原行为逐步重写为Rust，思路实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1460835528,
+        "full_name": "replit/datacat",
+        "html_url": "https://github.com/replit/datacat",
+        "stars": 237,
+        "score": 5,
+        "reason": "Replit出品的自托管可观测性平台，支持OTel，非常实用"
+      },
+      {
+        "id": 1460180740,
+        "full_name": "boringmarketer/boring-marketing-skills",
+        "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
+        "stars": 679,
+        "score": 4,
+        "reason": "面向AI agent的营销技能包，对做营销自动化的开发者有价值"
+      },
+      {
+        "id": 1459776570,
+        "full_name": "scarletkc/colab-playground",
+        "html_url": "https://github.com/scarletkc/colab-playground",
+        "stars": 281,
+        "score": 4,
+        "reason": "Google Colab CLI桌面应用，带GPU会话和成本控制，实用"
+      },
+      {
+        "id": 1461150218,
+        "full_name": "prusa3d/prusa-connect",
+        "html_url": "https://github.com/prusa3d/prusa-connect",
+        "stars": 226,
+        "score": 4,
+        "reason": "Prusa官方3D打印机本地服务器，对3D打印用户有价值"
+      },
+      {
+        "id": 1460079213,
+        "full_name": "staryone/motlab",
+        "html_url": "https://github.com/staryone/motlab",
+        "stars": 198,
+        "score": 4,
+        "reason": "视频即代码工具，WebCodecs渲染加agent技能，有实际价值"
+      }
+    ]
   }
 ]
