@@ -5215,5 +5215,44 @@
         "reason": "视频即代码工具，WebCodecs渲染加agent技能，有实际价值"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1463963309,
+        "full_name": "iamajmeena/neonclipping",
+        "html_url": "https://github.com/iamajmeena/neonclipping",
+        "stars": 663,
+        "score": 4,
+        "reason": "本地开源视频切片引擎，ffmpeg+whisper组合实用，适合短视频创作者。"
+      },
+      {
+        "id": 1462817683,
+        "full_name": "mitsuhiko/tvpipe",
+        "html_url": "https://github.com/mitsuhiko/tvpipe",
+        "stars": 145,
+        "score": 4,
+        "reason": "mitsuhiko出品的AirPlay/Chromecast投屏工具，Rust实现，实用且作者可信。"
+      },
+      {
+        "id": 1461861553,
+        "full_name": "comp-work/gke-sandboxes",
+        "html_url": "https://github.com/comp-work/gke-sandboxes",
+        "stars": 135,
+        "score": 4,
+        "reason": "GKE上基于gVisor的自托管沙箱工作区，云原生开发者有实际价值。"
+      },
+      {
+        "id": 1462237825,
+        "full_name": "geerlingguy/chronytop",
+        "html_url": "https://github.com/geerlingguy/chronytop",
+        "stars": 135,
+        "score": 4,
+        "reason": "chrony NTP监控TUI，运维/服务器开发者实用，作者geerlingguy信誉高。"
+      }
+    ]
   }
 ]
