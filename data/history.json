@@ -5254,5 +5254,44 @@
         "reason": "chrony NTP监控TUI，运维/服务器开发者实用，作者geerlingguy信誉高。"
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1464271688,
+        "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "stars": 1873,
+        "score": 4,
+        "reason": "Blender的AI/MCP集成插件，支持多模型，对3D工作流有实际价值"
+      },
+      {
+        "id": 1464004445,
+        "full_name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "html_url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "stars": 514,
+        "score": 4,
+        "reason": "功能全面的人脸识别工具集，涵盖检测、活体、比对等实用模块"
+      },
+      {
+        "id": 1464704089,
+        "full_name": "umbra0688/windows-clipboard-manager-sync",
+        "html_url": "https://github.com/umbra0688/windows-clipboard-manager-sync",
+        "stars": 239,
+        "score": 4,
+        "reason": "功能完整的开源Windows剪贴板管理器，支持搜索和云同步"
+      },
+      {
+        "id": 1463683138,
+        "full_name": "INK-Q/agy-fast",
+        "html_url": "https://github.com/INK-Q/agy-fast",
+        "stars": 211,
+        "score": 4,
+        "reason": "MCP加速插件，声称显著降低token和流量消耗，对AI编码有实际价值"
+      }
+    ]
   }
 ]
