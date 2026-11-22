@@ -5293,5 +5293,28 @@
         "reason": "MCP加速插件，声称显著降低token和流量消耗，对AI编码有实际价值"
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1466075841,
+        "full_name": "sybil-solutions/skill-distill",
+        "html_url": "https://github.com/sybil-solutions/skill-distill",
+        "stars": 408,
+        "score": 4,
+        "reason": "将AI编码会话蒸馏为可复用技能，思路实用"
+      },
+      {
+        "id": 1466635339,
+        "full_name": "EL4CTEO/fast-anything",
+        "html_url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 348,
+        "score": 4,
+        "reason": "只重写热点函数而非全量重写，方法论实用"
+      }
+    ]
   }
 ]
