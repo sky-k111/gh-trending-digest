@@ -5316,5 +5316,28 @@
         "reason": "只重写热点函数而非全量重写，方法论实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1464795219,
+        "full_name": "ThreatDefence/agentic-attack-detections",
+        "html_url": "https://github.com/ThreatDefence/agentic-attack-detections",
+        "stars": 464,
+        "score": 4,
+        "reason": "针对AI agent攻击框架的检测规则与IOC，安全团队有实用价值"
+      },
+      {
+        "id": 1466272233,
+        "full_name": "w01fb0ss/PiBot",
+        "html_url": "https://github.com/w01fb0ss/PiBot",
+        "stars": 451,
+        "score": 4,
+        "reason": "开源本地优先多agent桌面助手，功能完整跨平台"
+      }
+    ]
   }
 ]
