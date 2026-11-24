@@ -5339,5 +5339,36 @@
         "reason": "开源本地优先多agent桌面助手，功能完整跨平台"
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1467769720,
+        "full_name": "erkamyaman/safe-anything",
+        "html_url": "https://github.com/erkamyaman/safe-anything",
+        "stars": 552,
+        "score": 4,
+        "reason": "Rust编写的漏洞扫描器，功能覆盖XSS/SQL注入/CVE，有实用价值"
+      },
+      {
+        "id": 1466105732,
+        "full_name": "sshkeda/minecraft-server-on-orange-cloud",
+        "html_url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+        "stars": 424,
+        "score": 4,
+        "reason": "在Cloudflare上跑Minecraft服务器，架构思路有参考价值"
+      },
+      {
+        "id": 1467880545,
+        "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "html_url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "stars": 346,
+        "score": 4,
+        "reason": "Rust原生YouTube客户端，集成SponsorBlock等实用功能"
+      }
+    ]
   }
 ]
