@@ -5370,5 +5370,84 @@
         "reason": "Rust原生YouTube客户端，集成SponsorBlock等实用功能"
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "count": 9,
+    "repos": [
+      {
+        "id": 1469329665,
+        "full_name": "Indigo-0167/universal-game-mod-manager",
+        "html_url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+        "stars": 1174,
+        "score": 4,
+        "reason": "通用Unity/Unreal游戏mod管理器，功能明确实用"
+      },
+      {
+        "id": 1469338376,
+        "full_name": "Umbra9179/clipboard-history-manager-windows",
+        "html_url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+        "stars": 1149,
+        "score": 4,
+        "reason": "Windows剪贴板历史管理器，功能完整实用"
+      },
+      {
+        "id": 1469337059,
+        "full_name": "zero5122/offline-file-converter-windows",
+        "html_url": "https://github.com/zero5122/offline-file-converter-windows",
+        "stars": 1059,
+        "score": 4,
+        "reason": "离线文件转换器，隐私友好，实用性强"
+      },
+      {
+        "id": 1469332110,
+        "full_name": "kai415-debug/ffmpeg-video-audio-converter",
+        "html_url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+        "stars": 1024,
+        "score": 4,
+        "reason": "FFmpeg GUI转换工具，批量转码实用"
+      },
+      {
+        "id": 1469322189,
+        "full_name": "rowanbyte3329/stardew-valley-mod-manager",
+        "html_url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
+        "stars": 871,
+        "score": 4,
+        "reason": "星露谷mod管理器，SMAPI支持，目标用户明确"
+      },
+      {
+        "id": 1469319174,
+        "full_name": "olive527/steam-library-manager-windows",
+        "html_url": "https://github.com/olive527/steam-library-manager-windows",
+        "stars": 722,
+        "score": 4,
+        "reason": "Steam游戏库管理与备份工具，多平台支持实用"
+      },
+      {
+        "id": 1469333130,
+        "full_name": "Nebula4207/av1-video-encoder-gui",
+        "html_url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+        "stars": 685,
+        "score": 4,
+        "reason": "AV1编码GUI，支持多编码器并行，视频工作者实用"
+      },
+      {
+        "id": 1469335791,
+        "full_name": "umbradev315/ffmpeg-video-audio-converter",
+        "html_url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+        "stars": 554,
+        "score": 4,
+        "reason": "FFmpeg GUI转换工具，功能完整"
+      },
+      {
+        "id": 1469328448,
+        "full_name": "peak85-sketch/stardew-valley-mod-manager",
+        "html_url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+        "stars": 514,
+        "score": 4,
+        "reason": "星露谷mod管理器，与13号功能重复但同样实用"
+      }
+    ]
   }
 ]
