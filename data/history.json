@@ -5449,5 +5449,28 @@
         "reason": "星露谷mod管理器，与13号功能重复但同样实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1469330932,
+        "full_name": "solv4626/steam-achievement-manager-windows",
+        "html_url": "https://github.com/solv4626/steam-achievement-manager-windows",
+        "stars": 1058,
+        "score": 4,
+        "reason": "开源Steam成就管理器，功能明确，Windows用户有实际需求"
+      },
+      {
+        "id": 1468977659,
+        "full_name": "EL4CTEO/shrink-anything",
+        "html_url": "https://github.com/EL4CTEO/shrink-anything",
+        "stars": 297,
+        "score": 4,
+        "reason": "基于测试通过的代码/依赖裁剪工具，思路实用，CLI可用"
+      }
+    ]
   }
 ]
