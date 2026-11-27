@@ -5472,5 +5472,36 @@
         "reason": "基于测试通过的代码/依赖裁剪工具，思路实用，CLI可用"
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1471422729,
+        "full_name": "alesha-pro/llm.asm",
+        "html_url": "https://github.com/alesha-pro/llm.asm",
+        "stars": 1789,
+        "score": 4,
+        "reason": "纯汇编实现的LLM推理与裸机OS，技术价值高但实用性有限"
+      },
+      {
+        "id": 1473688485,
+        "full_name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+        "html_url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+        "stars": 782,
+        "score": 4,
+        "reason": "Windows标题栏模糊效果定制工具，实用且专注"
+      },
+      {
+        "id": 1473500322,
+        "full_name": "gary23w/f-ck_data_brokers",
+        "html_url": "https://github.com/gary23w/f-ck_data_brokers",
+        "stars": 478,
+        "score": 4,
+        "reason": "自动向数据经纪商发送删除请求的脚本，实用隐私工具"
+      }
+    ]
   }
 ]
