@@ -5503,5 +5503,28 @@
         "reason": "自动向数据经纪商发送删除请求的脚本，实用隐私工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1474584825,
+        "full_name": "flint63-code/gitdesk-windows",
+        "html_url": "https://github.com/flint63-code/gitdesk-windows",
+        "stars": 987,
+        "score": 4,
+        "reason": "开源Git GUI客户端，功能完整，对Windows开发者有价值"
+      },
+      {
+        "id": 1474599413,
+        "full_name": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+        "html_url": "https://github.com/mist-8659/windows-mouse-keyboard-sharing-kvm",
+        "stars": 981,
+        "score": 4,
+        "reason": "开源KVM软件，跨平台键鼠共享，实用工具"
+      }
+    ]
   }
 ]
